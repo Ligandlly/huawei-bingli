@@ -1,0 +1,2377 @@
+[
+  {
+    "type": "3",
+    "uri": "file://media/Photo/304/IMG_1715066733_456/1714987832 119.1815245929209,26.07363271520412.jpg",
+    "name": "1714987832 119.1815245929209,26.07363271520412.jpg",
+    "dateTaken": 1715044532,
+    "dateAdded": 1715044532,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "福建省",
+      "locality": "福州市",
+      "subLocality": "闽侯县",
+      "thoroughfare": "",
+      "subThoroughfare": "4号",
+      "addressDescription": "福建省福州市闽侯县上街镇福建医科大学上街校区公共卫生学院"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/476/IMG_1715066733_473/1712678400 117.10737764252734,39.20659470593566.jpg",
+    "name": "1712678400 117.10737764252734,39.20659470593566.jpg",
+    "dateTaken": 1712678400,
+    "dateAdded": 1712678400,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "天津市",
+      "locality": "天津市",
+      "subLocality": "北辰区",
+      "thoroughfare": "龙岩道",
+      "subThoroughfare": "238号",
+      "addressDescription": "天津市北辰区北仓镇娃哈哈(第二儿童医院急诊一层店)天津市第二儿童医院"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":3,\"timestamp\":\"2024/04/09 13:00:38\",\"department\":\"门诊科\",\"diagnosis\":\"过敏性鼻炎\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/464/IMG_1715066733_461/1711468800 114.10436901335069,22.555753437541654.jpg",
+    "name": "1711468800 114.10436901335069,22.555753437541654.jpg",
+    "dateTaken": 1711468800,
+    "dateAdded": 1711468800,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "深圳市",
+      "subLocality": "罗湖区",
+      "thoroughfare": "宝安南路",
+      "subThoroughfare": "3046号",
+      "addressDescription": "广东省深圳市罗湖区桂园街道天地大厦"
+    },
+    "extendJson": "{\"type\":\"1\",\"name\":\"刘强\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"未见明显异常\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/462/IMG_1715066733_459/1710133232 121.46286772151534,31.214026922002077.jpg",
+    "name": "1710133232 121.46286772151534,31.214026922002077.jpg",
+    "dateTaken": 1710133232,
+    "dateAdded": 1710133232,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "上海市",
+      "locality": "上海市",
+      "subLocality": "黄浦区",
+      "thoroughfare": "",
+      "subThoroughfare": "",
+      "addressDescription": "上海市黄浦区瑞金二路街道瑞金医院院史陈列馆上海交通大学医学院附属瑞金医院"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":28,\"timestamp\":\"2024/03/11 12:48:34\",\"department\":\"急诊科\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/455/IMG_1715066733_444/1708876800 114.04912672435118,22.55036294695088.jpg",
+    "name": "1708876800 114.04912672435118,22.55036294695088.jpg",
+    "dateTaken": 1708876800,
+    "dateAdded": 1708876800,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "深圳市",
+      "subLocality": "福田区",
+      "thoroughfare": "益田路",
+      "subThoroughfare": "7019号",
+      "addressDescription": "广东省深圳市福田区莲花街道儿童医院营养餐厅深圳市儿童医院"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"支气管炎\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/453/IMG_1715066733_441/1706153432 120.1610681858269,30.25485170181556.jpg",
+    "name": "1706153432 120.1610681858269,30.25485170181556.jpg",
+    "dateTaken": 1706153432,
+    "dateAdded": 1706153432,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "浙江省",
+      "locality": "杭州市",
+      "subLocality": "上城区",
+      "thoroughfare": "浣纱路",
+      "subThoroughfare": "205号",
+      "addressDescription": "浙江省杭州市上城区湖滨街道浙江省中医院湖滨院区住院部"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":28,\"timestamp\":\"2024/01/25 11:01:14\",\"department\":\"耳鼻喉科\",\"diagnosis\":\"咽喉壁淋巴滤泡增生\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/450/IMG_1715066733_437/1705800000 119.98426401619359,30.27414084474275.jpg",
+    "name": "1705800000 119.98426401619359,30.27414084474275.jpg",
+    "dateTaken": 1705800000,
+    "dateAdded": 1705800000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "浙江省",
+      "locality": "杭州市",
+      "subLocality": "余杭区",
+      "thoroughfare": "文一西路",
+      "subThoroughfare": "1367号",
+      "addressDescription": "浙江省杭州市余杭区仓前街道浙大一院总部浙江大学医学院附属第一医院"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":62,\"timestamp\":\"2024/01/20 08:16:00\",\"department\":\"甲状腺外科\",\"diagnosis\":\"甲状腺乳头状癌体淋巴结转移性癌\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/445/IMG_1715066733_428/1704857432 121.43805551834946,31.217723297444085.jpg",
+    "name": "1704857432 121.43805551834946,31.217723297444085.jpg",
+    "dateTaken": 1704857432,
+    "dateAdded": 1704857432,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "上海市",
+      "locality": "上海市",
+      "subLocality": "静安区",
+      "thoroughfare": "乌鲁木齐路",
+      "subThoroughfare": "12号",
+      "addressDescription": "上海市静安区静安寺街道上海华山医院预约咨询中心复旦大学附属华山医院"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":63,\"timestamp\":\"2024/01/07 17:52:58\",\"department\":\"西院骨科\",\"diagnosis\":\"腰椎间盘突出\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/443/IMG_1715066733_425/1704297600 106.59140243154798,29.59709307283786.jpg",
+    "name": "1704297600 106.59140243154798,29.59709307283786.jpg",
+    "dateTaken": 1704297600,
+    "dateAdded": 1704297600,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "重庆市",
+      "locality": "重庆市",
+      "subLocality": "南岸区",
+      "thoroughfare": "腾龙大道",
+      "subThoroughfare": "25-26号",
+      "addressDescription": "重庆市南岸区涂山镇国际社区汇金街东宸造型(中海地产国际商务大厦店)"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":28,\"timestamp\":\"2024/01/03 00:00:00\",\"department\":\"内科\",\"diagnosis\":\"急性上呼吸道感染\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/432/IMG_1715066733_396/1700956800 120.55306922588662,30.641196546856897.jpg",
+    "name": "1700956800 120.55306922588662,30.641196546856897.jpg",
+    "dateTaken": 1700956800,
+    "dateAdded": 1700956800,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "浙江省",
+      "locality": "嘉兴市",
+      "subLocality": "桐乡市",
+      "thoroughfare": "茅盾东路",
+      "subThoroughfare": "64号",
+      "addressDescription": "浙江省嘉兴市桐乡市梧桐街道茅盾东路桐乡市梧桐街道社区卫生服务中心预防保健部"
+    },
+    "extendJson": "{\"type\":\"1\",\"name\":\"刘平\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023/11/23 00:00:00\",\"department\":\"\",\"diagnosis\":\"超重,甲状腺胶质肿囊,心律不齐\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/428/IMG_1715066733_388/1697760000 106.50854962812942,29.588585737501045.jpg",
+    "name": "1697760000 106.50854962812942,29.588585737501045.jpg",
+    "dateTaken": 1697760000,
+    "dateAdded": 1697760000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "重庆市",
+      "locality": "重庆市",
+      "subLocality": "渝北区",
+      "thoroughfare": "武陵路",
+      "subThoroughfare": "3号",
+      "addressDescription": "重庆市渝北区龙溪街道啄木鸟家庭维修(武陵路)渝北区第二人民医院"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"血脂异常,窦性心动过缓,脂肪肝,宫颈囊肿,甲状腺双侧叶低回声结节,甲状腺右侧叶囊肿结节\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/425/IMG_1715066733_382/1697068800 116.43340114809496,39.91369681874729.jpg",
+    "name": "1697068800 116.43340114809496,39.91369681874729.jpg",
+    "dateTaken": 1697068800,
+    "dateAdded": 1697068800,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "北京市",
+      "locality": "北京市",
+      "subLocality": "朝阳区",
+      "thoroughfare": "雅宝路",
+      "subThoroughfare": "1号",
+      "addressDescription": "北京市朝阳区朝外街道首都儿科研究所附属儿童医院住院楼"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":3,\"timestamp\":\"2023/10/11 16:20:00\",\"department\":\"内科\",\"diagnosis\":\"咳嗽变异型哮喘,呼吸道感染,细菌感染\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/422/IMG_1715066733_361/1691683200 106.47711284571893,29.61976206298738.jpg",
+    "name": "1691683200 106.47711284571893,29.61976206298738.jpg",
+    "dateTaken": 1691683200,
+    "dateAdded": 1691683200,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "重庆市",
+      "locality": "重庆市",
+      "subLocality": "渝北区",
+      "thoroughfare": "金通大道",
+      "subThoroughfare": "9号",
+      "addressDescription": "重庆市渝北区大竹林街道拓邦意园"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"谷氨酰转肽酶偏高,窦性心律不齐\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/420/IMG_1715066733_358/1691078400 114.90597220383877,25.824105780557595.jpg",
+    "name": "1691078400 114.90597220383877,25.824105780557595.jpg",
+    "dateTaken": 1691078400,
+    "dateAdded": 1691078400,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "江西省",
+      "locality": "赣州市",
+      "subLocality": "章贡区",
+      "thoroughfare": "水南路",
+      "subThoroughfare": "1号",
+      "addressDescription": "江西省赣州市章贡区黄金岭街道赣州市妇幼保健院新院(赣康路院区)"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2023/07/13 12:17:58\",\"department\":\"儿童保健门诊\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/417/IMG_1715066733_353/1690595400 113.28565791168363,23.129035532889795.jpg",
+    "name": "1690595400 113.28565791168363,23.129035532889795.jpg",
+    "dateTaken": 1690595400,
+    "dateAdded": 1690595400,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "广州市",
+      "subLocality": "越秀区",
+      "thoroughfare": "",
+      "subThoroughfare": "4号",
+      "addressDescription": "广东省广州市越秀区农林街道中山大学附属第一医院"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/416/IMG_1715066733_352/1690594200 113.28565791168363,23.129035532889795.jpg",
+    "name": "1690594200 113.28565791168363,23.129035532889795.jpg",
+    "dateTaken": 1690594200,
+    "dateAdded": 1690594200,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "广州市",
+      "subLocality": "越秀区",
+      "thoroughfare": "",
+      "subThoroughfare": "4号",
+      "addressDescription": "广东省广州市越秀区农林街道中山大学附属第一医院"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023/07/28 08:43:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/414/IMG_1715066733_349/1690560000 113.28565791168363,23.129035532889795.jpg",
+    "name": "1690560000 113.28565791168363,23.129035532889795.jpg",
+    "dateTaken": 1690560000,
+    "dateAdded": 1690560000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "广州市",
+      "subLocality": "越秀区",
+      "thoroughfare": "",
+      "subThoroughfare": "4号",
+      "addressDescription": "广东省广州市越秀区农林街道中山大学附属第一医院"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘平\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023/07/28 08:37:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/413/IMG_1715066733_347/1690336200 124.35639117710583,43.174776320471665.jpg",
+    "name": "1690336200 124.35639117710583,43.174776320471665.jpg",
+    "dateTaken": 1690336200,
+    "dateAdded": 1690336200,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "吉林省",
+      "locality": "四平市",
+      "subLocality": "铁西区",
+      "thoroughfare": "中央西路",
+      "subThoroughfare": "103号",
+      "addressDescription": "吉林省四平市铁西区仁兴街道中央西路吉林省脑科医院(东北1门)"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"赵菊\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/411/IMG_1715066733_344/1690331400 124.35639117710583,43.174776320471665.jpg",
+    "name": "1690331400 124.35639117710583,43.174776320471665.jpg",
+    "dateTaken": 1690331400,
+    "dateAdded": 1690331400,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "吉林省",
+      "locality": "四平市",
+      "subLocality": "铁西区",
+      "thoroughfare": "中央西路",
+      "subThoroughfare": "103号",
+      "addressDescription": "吉林省四平市铁西区仁兴街道中央西路吉林省脑科医院(东北1门)"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"赵菊\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/410/IMG_1715066733_343/1690300800 124.35639117710583,43.174776320471665.jpg",
+    "name": "1690300800 124.35639117710583,43.174776320471665.jpg",
+    "dateTaken": 1690300800,
+    "dateAdded": 1690300800,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "吉林省",
+      "locality": "四平市",
+      "subLocality": "铁西区",
+      "thoroughfare": "中央西路",
+      "subThoroughfare": "103号",
+      "addressDescription": "吉林省四平市铁西区仁兴街道中央西路吉林省脑科医院(东北1门)"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"赵菊\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/405/IMG_1715066733_335/1687762832 119.2970875132237,26.07300451903728.jpg",
+    "name": "1687762832 119.2970875132237,26.07300451903728.jpg",
+    "dateTaken": 1687762832,
+    "dateAdded": 1687762832,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "福建省",
+      "locality": "福州市",
+      "subLocality": "台江区",
+      "thoroughfare": "茶中路",
+      "subThoroughfare": "22号",
+      "addressDescription": "福建省福州市台江区上海街道福建医科大学附属第一医院茶亭院区员工食堂"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"2023/06/26 14:35:17\",\"department\":\"眼科\",\"diagnosis\":\"急性结膜炎\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/404/IMG_1715066733_333/1687190400 113.35171906856375,22.951935280259853.jpg",
+    "name": "1687190400 113.35171906856375,22.951935280259853.jpg",
+    "dateTaken": 1687190400,
+    "dateAdded": 1687190400,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "广州市",
+      "subLocality": "番禺区",
+      "thoroughfare": "捷进中路",
+      "subThoroughfare": "57-59号",
+      "addressDescription": "广东省广州市番禺区市桥街道捷进中路57-59号"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/402/IMG_1715066733_330/1684557032 116.37742038352464,39.92299845302069.jpg",
+    "name": "1684557032 116.37742038352464,39.92299845302069.jpg",
+    "dateTaken": 1684557032,
+    "dateAdded": 1684557032,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "北京市",
+      "locality": "北京市",
+      "subLocality": "西城区",
+      "thoroughfare": "文津街",
+      "subThoroughfare": "13号",
+      "addressDescription": "北京市西城区什刹海街道文津街13号"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023/05/20 00:00:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/401/IMG_1715066733_329/1683939632 123.45487262007171,41.7455613678073.jpg",
+    "name": "1683939632 123.45487262007171,41.7455613678073.jpg",
+    "dateTaken": 1683939632,
+    "dateAdded": 1683939632,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "辽宁省",
+      "locality": "沈阳市",
+      "subLocality": "浑南区",
+      "thoroughfare": "浑南二路",
+      "subThoroughfare": "6-28号",
+      "addressDescription": "辽宁省沈阳市浑南区五三街道天坛南街国家电投"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"2023/05/12 00:00:00\",\"department\":\"骨科脊柱门诊\",\"diagnosis\":\"左侧第7肋骨折,右肾结石或钙化灶\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/398/IMG_1715066733_323/1682524800 114.04912672435118,22.55036294695088.jpg",
+    "name": "1682524800 114.04912672435118,22.55036294695088.jpg",
+    "dateTaken": 1682524800,
+    "dateAdded": 1682524800,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "深圳市",
+      "subLocality": "福田区",
+      "thoroughfare": "益田路",
+      "subThoroughfare": "7019号",
+      "addressDescription": "广东省深圳市福田区莲花街道儿童医院营养餐厅深圳市儿童医院"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"0\",\"age\":4,\"timestamp\":\"\",\"department\":\"特诊科\",\"diagnosis\":\"急性支气管\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/397/IMG_1715066733_322/1681920000 114.04912672435118,22.55036294695088.jpg",
+    "name": "1681920000 114.04912672435118,22.55036294695088.jpg",
+    "dateTaken": 1681920000,
+    "dateAdded": 1681920000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "深圳市",
+      "subLocality": "福田区",
+      "thoroughfare": "益田路",
+      "subThoroughfare": "7019号",
+      "addressDescription": "广东省深圳市福田区莲花街道儿童医院营养餐厅深圳市儿童医院"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"0\",\"age\":4,\"timestamp\":\"2023/04/19 14:33:00\",\"department\":\"科室耳鼻咽喉头颈外科\",\"diagnosis\":\"鼻炎,咽炎\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/396/IMG_1715066733_320/1680624000 121.46200127784995,31.25481391800608.jpg",
+    "name": "1680624000 121.46200127784995,31.25481391800608.jpg",
+    "dateTaken": 1680624000,
+    "dateAdded": 1680624000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "上海市",
+      "locality": "上海市",
+      "subLocality": "静安区",
+      "thoroughfare": "中兴路",
+      "subThoroughfare": "1039号",
+      "addressDescription": "上海市静安区芷江西路街道中兴路1039号"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2023/04/03 14:36:00\",\"department\":\"\",\"diagnosis\":\"喉炎,上呼吸道感染\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/394/IMG_1715066733_317/1680568200 121.47303894867053,31.25896818603942.jpg",
+    "name": "1680568200 121.47303894867053,31.25896818603942.jpg",
+    "dateTaken": 1680568200,
+    "dateAdded": 1680568200,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "上海市",
+      "locality": "上海市",
+      "subLocality": "静安区",
+      "thoroughfare": "宝通路",
+      "subThoroughfare": "273号",
+      "addressDescription": "上海市静安区宝山路街道上海六一儿童医院学习困难门诊宝山路499弄小区"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/387/IMG_1715066733_305/1677547832 113.30975053848438,22.97362840053393.jpg",
+    "name": "1677547832 113.30975053848438,22.97362840053393.jpg",
+    "dateTaken": 1677547832,
+    "dateAdded": 1677547832,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "广州市",
+      "subLocality": "番禺区",
+      "thoroughfare": "钟村人民路",
+      "subThoroughfare": "140号",
+      "addressDescription": "广东省广州市番禺区钟村街道番禺区第五人民医院急诊科"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":61,\"timestamp\":\"2023/02/27 21:29:38\",\"department\":\"急诊外科\",\"diagnosis\":\"胸8椎体压缩性骨折\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/386/IMG_1715066733_303/1677427200 114.28261059458418,30.606000758320636.jpg",
+    "name": "1677427200 114.28261059458418,30.606000758320636.jpg",
+    "dateTaken": 1677427200,
+    "dateAdded": 1677427200,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "湖北省",
+      "locality": "武汉市",
+      "subLocality": "江岸区",
+      "thoroughfare": "球场路",
+      "subThoroughfare": "183号",
+      "addressDescription": "湖北省武汉市江岸区西马街道武汉市妇女儿童医疗保健中心武汉市儿童医院"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2023/02/26 15:17:00\",\"department\":\"耳鼻咽喉科\",\"diagnosis\":\"鼻炎,鼻出血\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/384/IMG_1715066733_301/1675353600 119.91799478618222,30.996085678191164.jpg",
+    "name": "1675353600 119.91799478618222,30.996085678191164.jpg",
+    "dateTaken": 1675353600,
+    "dateAdded": 1675353600,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "浙江省",
+      "locality": "湖州市",
+      "subLocality": "长兴县",
+      "thoroughfare": "宾南路",
+      "subThoroughfare": "198号",
+      "addressDescription": "浙江省湖州市长兴县雉城街道长兴县中医院"
+    },
+    "extendJson": "{\"type\":\"1\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023/02/02 00:00:00\",\"department\":\"\",\"diagnosis\":\"窦性心动过速,总胆红素偏高\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/383/IMG_1715066733_299/1672099200 118.65335262256843,25.344343972079418.jpg",
+    "name": "1672099200 118.65335262256843,25.344343972079418.jpg",
+    "dateTaken": 1672099200,
+    "dateAdded": 1672099200,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "福建省",
+      "locality": "莆田市",
+      "subLocality": "仙游县",
+      "thoroughfare": "灯塔东路",
+      "subThoroughfare": "170号",
+      "addressDescription": "福建省莆田市仙游县龙华镇塔街仙游县总医院龙华分院"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":62,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"脂溢性皮炎\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/379/IMG_1715066733_294/1668576632 104.05079629981718,30.690291195867378.jpg",
+    "name": "1668576632 104.05079629981718,30.690291195867378.jpg",
+    "dateTaken": 1668576632,
+    "dateAdded": 1668576632,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "四川省",
+      "locality": "成都市",
+      "subLocality": "金牛区",
+      "thoroughfare": "九里堤沙湾东一路",
+      "subThoroughfare": "117号",
+      "addressDescription": "四川省成都市金牛区抚琴街道中铁二局集团中心医院停车场"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":58,\"timestamp\":\"2020/11/16 09:43:45\",\"department\":\"外科\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/375/IMG_1715066733_282/1664380800 113.3841976059391,23.04995352890643.jpg",
+    "name": "1664380800 113.3841976059391,23.04995352890643.jpg",
+    "dateTaken": 1664380800,
+    "dateAdded": 1664380800,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "广州市",
+      "subLocality": "番禺区",
+      "thoroughfare": "",
+      "subThoroughfare": "1号",
+      "addressDescription": "广东省广州市番禺区小谷围街道广东省中医院(大学城医院)"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":61,\"timestamp\":\"2022/09/28 00:00:00\",\"department\":\"\",\"diagnosis\":\"睡眠不好，易疲劳\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/374/IMG_1715066733_280/1663632000 106.50877155948784,29.53367822189163.jpg",
+    "name": "1663632000 106.50877155948784,29.53367822189163.jpg",
+    "dateTaken": 1663632000,
+    "dateAdded": 1663632000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "重庆市",
+      "locality": "重庆市",
+      "subLocality": "渝中区",
+      "thoroughfare": "友谊路",
+      "subThoroughfare": "1号",
+      "addressDescription": "重庆市渝中区石油路街道重庆医科大学附属第一医院院本部"
+    },
+    "extendJson": "{\"type\":\"1\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"血脂增高，肥胖,肝回声细密,双侧甲状腺结节\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/373/IMG_1715066733_278/1662771632 116.35420745071652,39.98117644356288.jpg",
+    "name": "1662771632 116.35420745071652,39.98117644356288.jpg",
+    "dateTaken": 1662771632,
+    "dateAdded": 1662771632,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "北京市",
+      "locality": "北京市",
+      "subLocality": "海淀区",
+      "thoroughfare": "花园北路",
+      "subThoroughfare": "21号",
+      "addressDescription": "北京市海淀区花园路街道北京大学第三医院(院本部)"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘强\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2022/09/09 09:51:57\",\"department\":\"外科\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/372/IMG_1715066733_276/1662692432 116.35420745071652,39.98117644356288.jpg",
+    "name": "1662692432 116.35420745071652,39.98117644356288.jpg",
+    "dateTaken": 1662692432,
+    "dateAdded": 1662692432,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "北京市",
+      "locality": "北京市",
+      "subLocality": "海淀区",
+      "thoroughfare": "花园北路",
+      "subThoroughfare": "21号",
+      "addressDescription": "北京市海淀区花园路街道北京大学第三医院(院本部)"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘强\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2022/09/09 10:06:15\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/371/IMG_1715066733_275/1660752000 118.77167754616177,32.04214887974579.jpg",
+    "name": "1660752000 118.77167754616177,32.04214887974579.jpg",
+    "dateTaken": 1660752000,
+    "dateAdded": 1660752000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "江苏省",
+      "locality": "南京市",
+      "subLocality": "秦淮区",
+      "thoroughfare": "石鼓路",
+      "subThoroughfare": "353号",
+      "addressDescription": "江苏省南京市秦淮区朝天宫街道南京市妇幼保健院"
+    },
+    "extendJson": "{\"type\":\"1\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2022/08/16 00:00:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/370/IMG_1715066733_273/1657296000 113.25921662113723,23.160089006623846.jpg",
+    "name": "1657296000 113.25921662113723,23.160089006623846.jpg",
+    "dateTaken": 1657296000,
+    "dateAdded": 1657296000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "广州市",
+      "subLocality": "白云区",
+      "thoroughfare": "机场路康雅花园一街",
+      "subThoroughfare": "5",
+      "addressDescription": "广东省广州市白云区三元里街道广州中医药大学第一附属医院-名医墙广州中医药大学第一附属医院8"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":62,\"timestamp\":\"2022/07/08 12:20:00\",\"department\":\"耳鼻喉科\",\"diagnosis\":\"咽炎,咳嗽\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/368/IMG_1715066733_270/1655019032 104.06565882340662,30.61554935022002.jpg",
+    "name": "1655019032 104.06565882340662,30.61554935022002.jpg",
+    "dateTaken": 1655019032,
+    "dateAdded": 1655019032,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "四川省",
+      "locality": "成都市",
+      "subLocality": "武侯区",
+      "thoroughfare": "人民南路四段",
+      "subThoroughfare": "51-6号",
+      "addressDescription": "四川省成都市武侯区火车南站街道四川省中西医结合医院"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":60,\"timestamp\":\"2022/06/12 14:33:19\",\"department\":\"\",\"diagnosis\":\"腰4-5椎间盘膨出,腰椎及椎小关节退行性变,腰背部筋膜炎\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/367/IMG_1715066733_268/1654617600 113.25921662113723,23.160089006623846.jpg",
+    "name": "1654617600 113.25921662113723,23.160089006623846.jpg",
+    "dateTaken": 1654617600,
+    "dateAdded": 1654617600,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "广州市",
+      "subLocality": "白云区",
+      "thoroughfare": "机场路康雅花园一街",
+      "subThoroughfare": "5",
+      "addressDescription": "广东省广州市白云区三元里街道广州中医药大学第一附属医院-名医墙广州中医药大学第一附属医院8"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":62,\"timestamp\":\"2022/06/07 14:41:00\",\"department\":\"耳鼻喉科\",\"diagnosis\":\"咽炎,咳嗽\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/366/IMG_1715066733_266/1653638400 113.99126527941802,22.528501305504637.jpg",
+    "name": "1653638400 113.99126527941802,22.528501305504637.jpg",
+    "dateTaken": 1653638400,
+    "dateAdded": 1653638400,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "深圳市",
+      "subLocality": "福田区",
+      "thoroughfare": "海园路",
+      "subThoroughfare": "1号",
+      "addressDescription": "广东省深圳市福田区沙头街道香港大学深圳医院-健康资讯中心"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"2022/05/25 15:32:00\",\"department\":\"皮肤科\",\"diagnosis\":\"痤疮\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/364/IMG_1715066733_263/1653637200 113.99126527941802,22.528501305504637.jpg",
+    "name": "1653637200 113.99126527941802,22.528501305504637.jpg",
+    "dateTaken": 1653637200,
+    "dateAdded": 1653637200,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "深圳市",
+      "subLocality": "福田区",
+      "thoroughfare": "海园路",
+      "subThoroughfare": "1号",
+      "addressDescription": "广东省深圳市福田区沙头街道香港大学深圳医院-健康资讯中心"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"2022/05/25 15:05:31\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/363/IMG_1715066733_261/1653580800 113.99126527941802,22.528501305504637.jpg",
+    "name": "1653580800 113.99126527941802,22.528501305504637.jpg",
+    "dateTaken": 1653580800,
+    "dateAdded": 1653580800,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "深圳市",
+      "subLocality": "福田区",
+      "thoroughfare": "海园路",
+      "subThoroughfare": "1号",
+      "addressDescription": "广东省深圳市福田区沙头街道香港大学深圳医院-健康资讯中心"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"2022/05/25 15:32:30\",\"department\":\"皮肤科\",\"diagnosis\":\"痤疮\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/361/IMG_1715066733_258/1651287161 116.23542689251738,40.21525068364392.jpg",
+    "name": "1651287161 116.23542689251738,40.21525068364392.jpg",
+    "dateTaken": 1651287161,
+    "dateAdded": 1651287161,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "北京市",
+      "locality": "北京市",
+      "subLocality": "昌平区",
+      "thoroughfare": "",
+      "subThoroughfare": "20号",
+      "addressDescription": "北京市昌平区城北街道北京市昌平区中医医院住院部"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"虚损病,胃痞病\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/359/IMG_1715066733_254/1649433600 114.04912672435118,22.55036294695088.jpg",
+    "name": "1649433600 114.04912672435118,22.55036294695088.jpg",
+    "dateTaken": 1649433600,
+    "dateAdded": 1649433600,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "深圳市",
+      "subLocality": "福田区",
+      "thoroughfare": "益田路",
+      "subThoroughfare": "7019号",
+      "addressDescription": "广东省深圳市福田区莲花街道儿童医院营养餐厅深圳市儿童医院"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":1,\"timestamp\":\"2022/04/08 16:28:36\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/356/IMG_1715066733_249/1645804800 106.50720773409489,29.621851936018366.jpg",
+    "name": "1645804800 106.50720773409489,29.621851936018366.jpg",
+    "dateTaken": 1645804800,
+    "dateAdded": 1645804800,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "重庆市",
+      "locality": "重庆市",
+      "subLocality": "渝北区",
+      "thoroughfare": "星光五路",
+      "subThoroughfare": "6号",
+      "addressDescription": "重庆市渝北区人和街道土星商务中心C2座"
+    },
+    "extendJson": "{\"type\":\"1\",\"name\":\"\",\"gender\":\"\",\"age\":1,\"timestamp\":\"2022/02/24 14:33:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/354/IMG_1715066733_246/1640476800 118.76186109105528,32.05128178887866.jpg",
+    "name": "1640476800 118.76186109105528,32.05128178887866.jpg",
+    "dateTaken": 1640476800,
+    "dateAdded": 1640476800,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "江苏省",
+      "locality": "南京市",
+      "subLocality": "鼓楼区",
+      "thoroughfare": "广州路",
+      "subThoroughfare": "215-17号",
+      "addressDescription": "江苏省南京市鼓楼区华侨路街道江苏省人民医院肝脏外科研究所江苏省人民医院(本部)"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":1,\"timestamp\":\"2021/12/25 09:05:00\",\"department\":\"\",\"diagnosis\":\"发热\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/352/IMG_1715066733_242/1623628800 121.51433056404554,31.22956588046181.jpg",
+    "name": "1623628800 121.51433056404554,31.22956588046181.jpg",
+    "dateTaken": 1623628800,
+    "dateAdded": 1623628800,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "上海市",
+      "locality": "上海市",
+      "subLocality": "浦东新区",
+      "thoroughfare": "张杨路",
+      "subThoroughfare": "560号",
+      "addressDescription": "上海市浦东新区潍坊新村街道中融恒瑞国际大厦西楼MORE MEE时尚生活中心"
+    },
+    "extendJson": "{\"type\":\"1\",\"name\":\"刘强\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"甘油三酯增高\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/350/IMG_1715066733_239/1615651200 106.55094390835636,29.55914503577858.jpg",
+    "name": "1615651200 106.55094390835636,29.55914503577858.jpg",
+    "dateTaken": 1615651200,
+    "dateAdded": 1615651200,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "重庆市",
+      "locality": "重庆市",
+      "subLocality": "渝中区",
+      "thoroughfare": "枣子岚垭正街",
+      "subThoroughfare": "32号",
+      "addressDescription": "重庆市渝中区两路口街道刘小琴民宿(中山二路分店)重庆医科大学附属儿童医院渝中院区"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":1,\"timestamp\":\"2021/03/13 17:19:00\",\"department\":\"急诊外科\",\"diagnosis\":\"II度烫伤\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/348/IMG_1715066733_236/1613403032 120.18648943082026,29.72614306467197.jpg",
+    "name": "1613403032 120.18648943082026,29.72614306467197.jpg",
+    "dateTaken": 1613403032,
+    "dateAdded": 1613403032,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "浙江省",
+      "locality": "绍兴市",
+      "subLocality": "诸暨市",
+      "thoroughfare": "仁爱路",
+      "subThoroughfare": "17号",
+      "addressDescription": "浙江省绍兴市诸暨市陶朱街道浙江省诸暨市人民医院住院部"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":28,\"timestamp\":\"2021/02/05 23:20:00\",\"department\":\"\",\"diagnosis\":\"脑震荡\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/347/IMG_1715066733_234/1611020400 113.32407285842942,23.191404724347237.jpg",
+    "name": "1611020400 113.32407285842942,23.191404724347237.jpg",
+    "dateTaken": 1611020400,
+    "dateAdded": 1611020400,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "广州市",
+      "subLocality": "白云区",
+      "thoroughfare": "京溪路",
+      "subThoroughfare": "1838号",
+      "addressDescription": "广东省广州市白云区京溪街道南方医科大学南方医院(院本部)消化楼"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2021/11/17 17:15:30\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/346/IMG_1715066733_232/1611019800 113.32407285842942,23.191404724347237.jpg",
+    "name": "1611019800 113.32407285842942,23.191404724347237.jpg",
+    "dateTaken": 1611019800,
+    "dateAdded": 1611019800,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "广州市",
+      "subLocality": "白云区",
+      "thoroughfare": "京溪路",
+      "subThoroughfare": "1838号",
+      "addressDescription": "广东省广州市白云区京溪街道南方医科大学南方医院(院本部)消化楼"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":26,\"timestamp\":\"2021/11/17 17:08:14\",\"department\":\"消化内科门诊\",\"diagnosis\":\"幽门螺旋杆菌感染\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/345/IMG_1715066733_230/1611018000 113.32407285842942,23.191404724347237.jpg",
+    "name": "1611018000 113.32407285842942,23.191404724347237.jpg",
+    "dateTaken": 1611018000,
+    "dateAdded": 1611018000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "广州市",
+      "subLocality": "白云区",
+      "thoroughfare": "京溪路",
+      "subThoroughfare": "1838号",
+      "addressDescription": "广东省广州市白云区京溪街道南方医科大学南方医院(院本部)消化楼"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"幽门螺旋杆菌阳性\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/343/IMG_1715066733_227/1606435200 112.97193179310038,28.178710006130935.jpg",
+    "name": "1606435200 112.97193179310038,28.178710006130935.jpg",
+    "dateTaken": 1606435200,
+    "dateAdded": 1606435200,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "湖南省",
+      "locality": "长沙市",
+      "subLocality": "天心区",
+      "thoroughfare": "四村街",
+      "subThoroughfare": "3号",
+      "addressDescription": "湖南省长沙市天心区裕南街街道长沙市第三医院"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":25,\"timestamp\":\"2020/11/26 00:00:00\",\"department\":\"\",\"diagnosis\":\"面部发黄暗沉，黑眼圈重，起雀斑\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/340/IMG_1715066733_222/1601695832 117.17996113824339,39.11680164156045.jpg",
+    "name": "1601695832 117.17996113824339,39.11680164156045.jpg",
+    "dateTaken": 1601695832,
+    "dateAdded": 1601695832,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "天津市",
+      "locality": "天津市",
+      "subLocality": "和平区",
+      "thoroughfare": "兰州道",
+      "subThoroughfare": "31号",
+      "addressDescription": "天津市和平区南营门街道天津市脑血管病防治研究办公室天津医科大学总医院"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":58,\"timestamp\":\"2020/10/02 00:00:00\",\"department\":\"\",\"diagnosis\":\"脑白质稀疏,脑萎缩\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/339/IMG_1715066733_220/1600185600 106.46202410614809,29.558564201356738.jpg",
+    "name": "1600185600 106.46202410614809,29.558564201356738.jpg",
+    "dateTaken": 1600185600,
+    "dateAdded": 1600185600,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "重庆市",
+      "locality": "重庆市",
+      "subLocality": "沙坪坝区",
+      "thoroughfare": "小龙坎新街",
+      "subThoroughfare": "42号附6号",
+      "addressDescription": "重庆市沙坪坝区渝碚路街道重庆市沙坪坝区人民医院(三峡广场院区)"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":60,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"血压偏高,磺胺类药物过敏\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/338/IMG_1715066733_218/1597203032 117.0437693854893,30.509644101067185.jpg",
+    "name": "1597203032 117.0437693854893,30.509644101067185.jpg",
+    "dateTaken": 1597203032,
+    "dateAdded": 1597203032,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "安徽省",
+      "locality": "安庆市",
+      "subLocality": "迎江区",
+      "thoroughfare": "孝肃路",
+      "subThoroughfare": "42号",
+      "addressDescription": "安徽省安庆市迎江区宜城路街道安庆市第一人民医院孝肃路院区门诊大楼安庆市第一人民医院(孝肃路院区)"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":60,\"timestamp\":\"2020/08/11 00:00:00\",\"department\":\"口腔科\",\"diagnosis\":\"浸润性鳞状细胞癌\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/335/IMG_1715066733_213/1593388800 121.51433056404554,31.22956588046181.jpg",
+    "name": "1593388800 121.51433056404554,31.22956588046181.jpg",
+    "dateTaken": 1593388800,
+    "dateAdded": 1593388800,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "上海市",
+      "locality": "上海市",
+      "subLocality": "浦东新区",
+      "thoroughfare": "张杨路",
+      "subThoroughfare": "560号",
+      "addressDescription": "上海市浦东新区潍坊新村街道中融恒瑞国际大厦西楼MORE MEE时尚生活中心"
+    },
+    "extendJson": "{\"type\":\"1\",\"name\":\"刘强\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/334/IMG_1715066733_212/1592280032 80.18996815150264,37.07554391470163.jpg",
+    "name": "1592280032 80.18996815150264,37.07554391470163.jpg",
+    "dateTaken": 1592280032,
+    "dateAdded": 1592280032,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "新疆维吾尔自治区",
+      "locality": "和田地区",
+      "subLocality": "洛浦县",
+      "thoroughfare": "双拥路",
+      "subThoroughfare": "66号",
+      "addressDescription": "新疆维吾尔自治区和田地区洛浦县城区街道洛浦县50号便民警务站洛浦县人民医院"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":27,\"timestamp\":\"2020/06/16 11:50:00\",\"department\":\"\",\"diagnosis\":\"肌肉损伤\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/333/IMG_1715066733_210/1590508800 110.49634945590049,19.612656398171342.jpg",
+    "name": "1590508800 110.49634945590049,19.612656398171342.jpg",
+    "dateTaken": 1590508800,
+    "dateAdded": 1590508800,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "海南省",
+      "locality": "海口市",
+      "subLocality": "琼山区",
+      "thoroughfare": "正街",
+      "subThoroughfare": "169号",
+      "addressDescription": "海南省海口市琼山区甲子镇美茶路海口市琼山区甲子镇卫生院"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":24,\"timestamp\":\"2020/05/26 00:00:00\",\"department\":\"内儿科\",\"diagnosis\":\"急性咽喉炎\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/332/IMG_1715066733_208/1579577432 104.05854441541638,30.643543751606025.jpg",
+    "name": "1579577432 104.05854441541638,30.643543751606025.jpg",
+    "dateTaken": 1579577432,
+    "dateAdded": 1579577432,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "四川省",
+      "locality": "成都市",
+      "subLocality": "武侯区",
+      "thoroughfare": "电信路",
+      "subThoroughfare": "37号",
+      "addressDescription": "四川省成都市武侯区玉林街道华西牛奶四川大学华西医院"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":24,\"timestamp\":\"2020/01/13 18:55:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/330/IMG_1715066733_205/1555319852 117.96582260560274,28.450388739377082.jpg",
+    "name": "1555319852 117.96582260560274,28.450388739377082.jpg",
+    "dateTaken": 1555319852,
+    "dateAdded": 1555319852,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "江西省",
+      "locality": "上饶市",
+      "subLocality": "信州区",
+      "thoroughfare": "五三大道",
+      "subThoroughfare": "182号",
+      "addressDescription": "江西省上饶市信州区东市街道上饶市立医院"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":26,\"timestamp\":\"2019/04/14 09:00:00\",\"department\":\"门诊\",\"diagnosis\":\"窦性心律异位,偶发性房性早搏,偶发性室性早搏\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/329/IMG_1715066733_203/1536642032 110.33341600105202,20.064568541371642.jpg",
+    "name": "1536642032 110.33341600105202,20.064568541371642.jpg",
+    "dateTaken": 1536642032,
+    "dateAdded": 1536642032,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "海南省",
+      "locality": "海口市",
+      "subLocality": "美兰区",
+      "thoroughfare": "海甸五西路",
+      "subThoroughfare": "2号",
+      "addressDescription": "海南省海口市美兰区海甸街道海南国爱近视治疗中心"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":22,\"timestamp\":\"2018/09/10 00:00:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/328/IMG_1715066733_201/1534555832 113.26343976277568,23.083996029191667.jpg",
+    "name": "1534555832 113.26343976277568,23.083996029191667.jpg",
+    "dateTaken": 1534555832,
+    "dateAdded": 1534555832,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "广州市",
+      "subLocality": "海珠区",
+      "thoroughfare": "南泰路",
+      "subThoroughfare": "323号",
+      "addressDescription": "广东省广州市海珠区南石头街道南方医科大学珠江医院医学验光配镜中心"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"\",\"gender\":\"0\",\"age\":0,\"timestamp\":\"2018/08/18 18:01:54\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/327/IMG_1715066733_200/1531530032 108.94040878036242,34.26547095532835.jpg",
+    "name": "1531530032 108.94040878036242,34.26547095532835.jpg",
+    "dateTaken": 1531530032,
+    "dateAdded": 1531530032,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "陕西省",
+      "locality": "西安市",
+      "subLocality": "莲湖区",
+      "thoroughfare": "西华门大街",
+      "subThoroughfare": "2-4号",
+      "addressDescription": "陕西省西安市莲湖区北院门街道陕西省中医医院"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":22,\"timestamp\":\"2018/07/14 00:00:00\",\"department\":\"门诊\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/326/IMG_1715066733_198/1528083032 106.44763557894697,29.539399034671845.jpg",
+    "name": "1528083032 106.44763557894697,29.539399034671845.jpg",
+    "dateTaken": 1528083032,
+    "dateAdded": 1528083032,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "重庆市",
+      "locality": "重庆市",
+      "subLocality": "沙坪坝区",
+      "thoroughfare": "都市花园西路",
+      "subThoroughfare": "105-36号",
+      "addressDescription": "重庆市沙坪坝区新桥街道西南医院-外科楼陆军军医大学西南医院"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":57,\"timestamp\":\"2018/06/04 00:00:00\",\"department\":\"耳鼻喉科\",\"diagnosis\":\"鼻骨骨折，鼻中隔偏曲\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/325/IMG_1715066733_196/1522488632 117.95922144519625,28.45426442283781.jpg",
+    "name": "1522488632 117.95922144519625,28.45426442283781.jpg",
+    "dateTaken": 1522488632,
+    "dateAdded": 1522488632,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "江西省",
+      "locality": "上饶市",
+      "subLocality": "信州区",
+      "thoroughfare": "庆丰路",
+      "subThoroughfare": "31号",
+      "addressDescription": "江西省上饶市信州区西市街道铁路医院江西医专第一附属医院"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":58,\"timestamp\":\"2018/03/31 11:55:52\",\"department\":\"内一科\",\"diagnosis\":\"慢性支气炎伴两肺气肿\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/322/IMG_1715066733_191/1507685432 106.91098939382293,27.703093727110108.jpg",
+    "name": "1507685432 106.91098939382293,27.703093727110108.jpg",
+    "dateTaken": 1507685432,
+    "dateAdded": 1507685432,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "贵州省",
+      "locality": "遵义市",
+      "subLocality": "汇川区",
+      "thoroughfare": "凤凰路",
+      "subThoroughfare": "98号",
+      "addressDescription": "贵州省遵义市汇川区洗马路街道遵义市第一人民医院综合住院大楼"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":57,\"timestamp\":\"2017/10/11 01:02:40\",\"department\":\"神经重症医学科\",\"diagnosis\":\"脑干出血,双肺感染，双侧少量胸腔积液\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/319/IMG_1715066733_186/1491613232 116.28371522013929,39.9216071278106.jpg",
+    "name": "1491613232 116.28371522013929,39.9216071278106.jpg",
+    "dateTaken": 1491613232,
+    "dateAdded": 1491613232,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "北京市",
+      "locality": "北京市",
+      "subLocality": "海淀区",
+      "thoroughfare": "阜成路",
+      "subThoroughfare": "52-1号",
+      "addressDescription": "北京市海淀区八里庄街道北京大学肿瘤医院三号厅立体停车场"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"李丽\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2017/04/08 00:09:00\",\"department\":\"胸外二科门诊\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/320/IMG_1715066733_188/1491613232 116.31288043155355,39.8982442011654.jpg",
+    "name": "1491613232 116.31288043155355,39.8982442011654.jpg",
+    "dateTaken": 1491613232,
+    "dateAdded": 1491613232,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "北京市",
+      "locality": "北京市",
+      "subLocality": "海淀区",
+      "thoroughfare": "铁医路",
+      "subThoroughfare": "10号",
+      "addressDescription": "北京市海淀区羊坊店街道首都医科大学附属北京世纪坛医院儿科急诊"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘强\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2017/04/08 00:02:00\",\"department\":\"急诊科\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/317/IMG_1715066733_182/1439337600 113.28565791168363,23.129035532889795.jpg",
+    "name": "1439337600 113.28565791168363,23.129035532889795.jpg",
+    "dateTaken": 1439337600,
+    "dateAdded": 1439337600,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "广州市",
+      "subLocality": "越秀区",
+      "thoroughfare": "",
+      "subThoroughfare": "4号",
+      "addressDescription": "广东省广州市越秀区农林街道中山大学附属第一医院"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":23,\"timestamp\":\"2015/08/11 00:00:00\",\"department\":\"耳鼻喉科\",\"diagnosis\":\"慢性鼻窦炎\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "file://media/Photo/316/IMG_1715066733_181/1411954232 116.27108956531644,39.90357138588956.jpg",
+    "name": "1411954232 116.27108956531644,39.90357138588956.jpg",
+    "dateTaken": 1411954232,
+    "dateAdded": 1411954232,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "北京市",
+      "locality": "北京市",
+      "subLocality": "海淀区",
+      "thoroughfare": "",
+      "subThoroughfare": "",
+      "addressDescription": "北京市海淀区万寿路街道中国人民解放军总医院国际会议中心"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘平\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2014/09/29 08:36:14\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": " "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/3/IMG_1715066733_451/1714894232 109.57060158133984,31.4017504974518.jpg",
+    "name": "1714894232 109.57060158133984,31.4017504974518.jpg",
+    "dateTaken": 1714894232,
+    "dateAdded": 1714894232000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "重庆市",
+      "locality": "重庆市",
+      "subLocality": "巫溪县",
+      "thoroughfare": "万通路",
+      "subThoroughfare": "110号",
+      "addressDescription": "重庆市巫溪县柏杨街道康环商贸巫溪县人民医院"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":62,\"timestamp\":\"\",\"department\":\"呼吸内科\",\"diagnosis\":\"慢性喘息性支气管炎\"}",
+    "ocr": "重庆市巫溪县人民医院 疾病诊断书 性别:1年龄:62岁科室:呼吸内科 姓名:赵菊 主诉:晚嘴加重4天 现病史:患者既往有慢性支气管炎病史多年,每逢冬存季嘛嘴加重,四天前惠者自党费 来,流递,咳嗽头昏乏力,病情渐行性加重,入院时上述症状未加缓解,咳嘴加重, 庆质黄刷,量中等,无血丝,病程中,无发热,气促,胸闷,心悸,纳差,大小便正 常。今特来我院门诊就诊,门诊拟以\"慢性嘴息性支气管炎急性发作\"收入住院治疗。 初步诊断:以慢性嘴息性支气管炎 建议:住院治疗,结合临床医学诊治, 门诊号:0007209 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/5/IMG_1715066733_453/1714959032 121.51591928814086,31.20759194722083.jpg",
+    "name": "1714959032 121.51591928814086,31.20759194722083.jpg",
+    "dateTaken": 1715044532,
+    "dateAdded": 1715044532000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "上海市",
+      "locality": "上海市",
+      "subLocality": "浦东新区",
+      "thoroughfare": "北园路",
+      "subThoroughfare": "33号",
+      "addressDescription": "上海市浦东新区塘桥街道仁济医院特约门诊上海交通大学医学院附属仁济医院东院"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"右侧基低节区脑出血并破入脑室系统，脑疝形成\"}",
+    "ocr": "检查部位:[头,平扫] 描述: 头部螺旋CT平扫 层厚5mm 层数24 右侧基底节区可见大面积高密度影,大小约7.1*3.5cm,CT值70Hu左右,约 10个层面,周边为低密度水肿带,右侧脑室及第三脑室内亦见带状高密度 影,右侧侧脑室明显受压,左侧侧脑室部分受压,余小脑及脑干发育正常,内 部密度均匀,未见异常密度影。脑池脑沟正常,中线结构居偏向左侧。 诊断:右侧基底节区脑出血并破入脑室系统,脑疝形成。 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/6/IMG_1715066733_454/1714959932 121.44629855091614,31.23177188325007.jpg",
+    "name": "1714959932 121.44629855091614,31.23177188325007.jpg",
+    "dateTaken": 1715044532,
+    "dateAdded": 1715044532000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "上海市",
+      "locality": "上海市",
+      "subLocality": "静安区",
+      "thoroughfare": "西康路",
+      "subThoroughfare": "252号",
+      "addressDescription": "上海市静安区江宁路街道爱康国宾体检中心(旗舰店)国宾大楼"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": "血细胞分析 项目 白细胞计数 中性粒细胞绝对值 中性粒细胞百分比 淋巴细胞绝对值 淋巴细胞百分比 单核细胞绝对值 单核细胞百分比 嗜酸性粒细胞绝对值 嗜酸性粒细胞百分比 嗜碱性粒细胞绝对值 嗜碱性粒细胞百分比 红细胞计数 血红蛋白 红细胞比积 平均红细胞血红蛋白浓度 平均红细胞血红蛋白含量 红细胞体积分布宽度标准差 平均红细胞体积 红细胞分布宽度变异系数 血小板计数 血小板比积 大血小板比率 平均血小板体积 血小板体积分布宽度 提示 范围 检查医生:廖娇 3.50-9.50 1.80-6.30 20.0-50.0 40.0-75.0 1.10-3.20 0.10-0.60 3.0-10.0 0.02-0.52 0.4-8.0 0.00-0.06 0.0-1.0 3.80-5.10 115-150 316-354 35.0-45.0 27.0-34.0 39.0-52.3 82.0-100.0 11.9-14.5 125-350 0.11-0.28 13.0-43.0 9.0-13.0 9.0-17.0 结果 3.95 1.57 39.8 2.04 51.6 0.27 6.8 0.04 1.0 0.03 0.8 4.44 134 40.9 328 30.2 40.4 92.1 12.0 319 0.31 22.0 9.7 10.2 单位 *109/ *10 9/L  *109/ ←  ← *109/L  *10~9/L ge *10 9/L  *10°12/L g/L  g/L pg fL fL *109/  % fl ae 肾功二项+尿酸 检查医生:李萌 第3页共8页 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/3/IMG_1715066733_179/1287532800 113.70399923727545,34.61302312749613.jpg",
+    "name": "1287532800 113.70399923727545,34.61302312749613.jpg",
+    "dateTaken": 1287532800,
+    "dateAdded": 1287532800000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "河南省",
+      "locality": "郑州市",
+      "subLocality": "新郑市",
+      "thoroughfare": "双湖大道",
+      "subThoroughfare": "21号",
+      "addressDescription": "河南省郑州市新郑市龙湖镇郑州市紧急医疗救援中心河南省第二人民医院"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":50,\"timestamp\":\"\",\"department\":\"急诊\",\"diagnosis\":\"急性胃炎\"}",
+    "ocr": "普通 河南省第二人民医院处方笺 费别:自费公费 医保 姓名:刘平 科别:急诊 性别:01 住院(门诊)号:05 日期:2010年10月19日 年龄:50岁 临床诊断:急性胃炎 Rp: 0.9%氯化钠注射液 注射用洋托拉 100md 40昭X2 ivgtt ct 医师 张楚襄 审核 调配: 核对: 发药 药费: "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/8/IMG_1715066733_184/1444608000 117.81677606687309,30.920528474773022.jpg",
+    "name": "1444608000 117.81677606687309,30.920528474773022.jpg",
+    "dateTaken": 1444608000,
+    "dateAdded": 1444608000000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "安徽省",
+      "locality": "铜陵市",
+      "subLocality": "铜官区",
+      "thoroughfare": "笔架山路",
+      "subThoroughfare": "536号",
+      "addressDescription": "安徽省铜陵市铜官区西湖镇铜陵市人民医院体检中心"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":20,\"timestamp\":\"2015-10-14\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": "铜陵市人民医院体检中心 体检报告 体检卡号: 年龄:20 T0035365 单位名称: 姓名:李丽 性 :1 本次体检总结: 1.检验结果 原:隐血:士.参考范围:明性 平均血红蛋白量:26.9Dml参考范围:27.0-31L.0 丙氨酸氧基转移质:520/L1参考范围:7-40 健康指导建议 (尿脆电科阳性) 1、复查尿常媛。 2、肾内科进一步检查治疗, 「谷丙转氮酌增高] 谷丙转狐胎是测定旺 开建议内科门诊,生活上提倡成酒,并注意休息,免过 总检 总检日期:2015-10-14 体检明细指标 一般琪目 项目名称 血压(收缩乐) 体校日期:2015-10-12 心电图室 项目名称 常规心电医 休检日期:2015-10-12 检验数据 尿常规 项目名称 尿:颜色 尿:透明度 尿:亚硝酸盐 尿:维生素C 尿:蛋白质 尿:尿胆原 尿:白削面 广音站果 110 单位 nmill 项目名称 电压(舒张压 体检医生:1676 检查烩果 70 单位 检奇结果 卖性心律、正常心电围 单业 项日名称 直站量 单 体检医生:重梅 尿:服诚度 项目名称 尿:比重 原:葡萄原 原:胆红素 原:隐血 尿:削体 东:红舰胞(镜检) 50 检查结果 L030 作 4, Б-R0 步专信 L.05-L03s 明作 性 刚节 削性 检查靖果 淡黄色 透明 明性 刚性 刚性 厨性 明性 参考仙 单位 单位 时性 明性 明性 刷性 明性 刷性 性 Л0 第1瓦共2页 体检日期:2015-10-12卡号:T0035369姓名:李明性别:1年龄:20岁 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/13/IMG_1715066733_189/1502326832 116.34903204914573,39.865078258520555.jpg",
+    "name": "1502326832 116.34903204914573,39.865078258520555.jpg",
+    "dateTaken": 1502326832,
+    "dateAdded": 1502326832000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "北京市",
+      "locality": "北京市",
+      "subLocality": "丰台区",
+      "thoroughfare": "林西路",
+      "subThoroughfare": "21号",
+      "addressDescription": "北京市丰台区右安门街道首都医科大学附属北京佑安医院门诊部(西门)"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":24,\"timestamp\":\"2017-08-10 08:56:00\",\"department\":\"中西医结合中心病区\",\"diagnosis\":\"\"}",
+    "ocr": "OR 10 edR 16 北京佑安医院挂号单 年站:24 1D号: 姓名刘强 性刷:0性 医师:勾春燕 号别:知名专家 科室:中西医结合中心病区 就诊序号:上午15号 就诊日期:2017-08-10周四 候诊时间:08:56 就诊地点:门诊楼二层南侧14诊室 Bc 0数# 40mg+481 100 1007 0:15元4校 1Бpg=5M 50mg+24片 0.25+202 10m1:0.4g*6支 60片 20mg+16片 30片 江 益源生) 挂号课道日安口 类型:自费 京医通卡号: 医事服务费:100.00元 实付金额:100.00元 支付方式:北京通·京医通·微信 流水号:6356788 操作员:10054  欣) 0.2g¥60片 0.1g*301 山 拉 今(多吉美) 10=gв? 收费时间:08-1008:26 1如需票据,请在当日就诊结束后到收费处 打印; 2如需退号,凭挂号单在17:00前到医院窗 口办理,逾期将不可办理退号退费。 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/1/IMG_1715066733_193/1510876800 114.58886213257523,36.31910672642808.jpg",
+    "name": "1510876800 114.58886213257523,36.31910672642808.jpg",
+    "dateTaken": 1510876800,
+    "dateAdded": 1510876800000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "河北省",
+      "locality": "邯郸市",
+      "subLocality": "临漳县",
+      "thoroughfare": "朱雀大道",
+      "subThoroughfare": "99号",
+      "addressDescription": "河北省邯郸市临漳县狄邱乡临漳县医院医技楼"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":22,\"timestamp\":\"2017-11-16 08:52:09\",\"department\":\"产科门诊\",\"diagnosis\":\"\"}",
+    "ocr": "普通处方 当日有效 门诊号:0004095677 时间: 临漳县医院 科别广科门诊 姓名:李丽 临床诊斯:DBC 处方笺 卖别:自费及3 性别:1年龄:22岁 2017-11-168:52:09 R 名称 规格组用星 卡前列素氛工三毒注250uk41 射液 250ug 支/皮 用法 板次总量 肌肉注射立即执行文 李人 发卉 中板 钢解 调配 金 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/2/IMG_1715066733_194/1513036800 106.44231436621604,29.82467572059572.jpg",
+    "name": "1513036800 106.44231436621604,29.82467572059572.jpg",
+    "dateTaken": 1513036800,
+    "dateAdded": 1513036800000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "重庆市",
+      "locality": "重庆市",
+      "subLocality": "北碚区",
+      "thoroughfare": "粮食路",
+      "subThoroughfare": "299号",
+      "addressDescription": "重庆市北碚区天生街道重庆市第九人民医院-体检"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":22,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": "李丽 年龄 22 岁 身份证号 4312720030416UU00 性别 1 项目 项目 结果 项目 结果 103/ 72 未见异常 结果 一般情况 心脏 良好 未见异常 未见异常 未见异常 心率  78 mm 次/分 来见异常 见异常 米触及 血压 牌 F  3 无特珠 甲状腺 浅表淋巴结 检查者;梁东燕 胸透 胸部透视未见异常 检查者:欧阳晓明 参考值/单位 0-50 UL 项目名称 谷丙转氨荫(ALT) 谷草转氨酷(AST) 结果  参考值/单位 0-40 UL 4-40 UL 项目名称 v-谷氮脱转肽韵(GGT) 结果 肝功能 A 11 检查者吴洁莹 项目名称 \"白细胞计数 \"红细胞计数 \"中红蛋白 红架脂比积 平均红绵胞体积 平均红细胞血红蛋白含量 \"血小板计数 淋巴细胞百分比 淋巴细胞绝对值 红细胞体积分布宽度CV 平均血小板体积 红细胞分布宽度(SD) 结果参考值/单位 5.85 4.0-10 X1019/L 3.96 3.5-5.5 X1012/L 115.0 120-160 g/L 35.533.5-50.8% 89.6 84.00-100.0 пれ 29.027.00-31.00 pg 282 100-320 X1019L 46.520-40% 2.72 0.8-4.0 X10*9L 11.7 11.0-15.0 9.5 6.8-13,5 fL 38.1 37.0-54.0 fL 项目名称 \"粒细胞绝对值 血小板分布宽度 血小板压积 晴喊性粒细胞绝对值 嗜酸性粒细胸绝对值 单核细胞绝对值 喷碱性粒细脚百比数 啼酸性粒细疯百分数 平均红细胞血红蛋白浓度 中性粒细胞百分数 单核细胞百分数 大血小板比率(P-LCR) 结果参考值/单位 2.68 2.0-7,0 X10-9L 10.011.1-16.2fL 0.270.108-0272% o 03 0-1 X10aЛL 0.10 o.02-0.50 X10 0,32 0.1-12 X10-9/ 0.50-0.1% 1.70.5-5.0% 324.O 320-360 g/ 45.850-70% 5.53.0-8.0% 20.0 13,0-43, 检查者:李鸡 血常规 所检项目未见异常 次所检项目未见异常。 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/14/IMG_1715066733_206/1556521232 109.47920453771428,36.59947599825682.jpg",
+    "name": "1556521232 109.47920453771428,36.59947599825682.jpg",
+    "dateTaken": 1556521232,
+    "dateAdded": 1556521232000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "陕西省",
+      "locality": "延安市",
+      "subLocality": "宝塔区",
+      "thoroughfare": "二道街",
+      "subThoroughfare": "185号",
+      "addressDescription": "陕西省延安市宝塔区凤凰山街道延安大学附属医院(北大街)"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":26,\"timestamp\":\"\",\"department\":\"内分泌代谢科\",\"diagnosis\":\"1.原发性甲状腺功能亢进症 Graves病 周期性麻痹，2.高干油三脂血症\"}",
+    "ocr": "诊断证明书 效证明刘强026岁身份证号:61062419920516001X 经在我院内分泌代谢科住院(住院号:0001924226)诊治。 临床诊/臆断为:1.原发性甲状腺功能亢进症 Graves病 周期性麻痹2.高甘油三脂血症 曾作处理:住院治疗 建议:仅供疾病诊断证明用 れ 正布 2019年04月28日11486 医师: 备注:(未加盖诊断证明章无效) 温馨提示:请到第一住院部一楼7号窗口盖章 1ocIU Tし、NEUmろЖ、LYET2, 5,林細物行、症状選料焼読 洽,今门诊以\"低钾原因待查 Graves甲亢?\"收住入院,病来无发冷、发热,无焦躁易 中车联购火工华险 A "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/7/IMG_1715066733_215/1595203200 114.26125617330958,30.54476260591921.jpg",
+    "name": "1595203200 114.26125617330958,30.54476260591921.jpg",
+    "dateTaken": 1595203200,
+    "dateAdded": 1595203200000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "湖北省",
+      "locality": "武汉市",
+      "subLocality": "汉阳区",
+      "thoroughfare": "鹦鹉大道",
+      "subThoroughfare": "197号",
+      "addressDescription": "湖北省武汉市汉阳区徐家棚街道鹦鹉大道武汉友好医院"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":28,\"timestamp\":\"2020-07-19\",\"department\":\"中医内科\",\"diagnosis\":\"咽炎\"}",
+    "ocr": "清肺化痰丸  Qingfei Huatan Wan RAn果公司  WAMSH 馆 医院处方笺 医保卡号:/ 费别:自费 年龄:28 科别:中医内科 性别:0 姓名:刘强 门诊病历号:/ 临床诊断:咽炎 开具日期:2020.7.19 Rp 一日3次 一日2次 清肺化痰丸 3盒(8袋/盒) 肖氏琼御膏 3盒(200ml/盒)   (5 发放:2窗口 金额:仙事去田意 华 医师:郑鹏 调配:/ 核对:王勤丽 审核:/ 药氏障御中 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/9/IMG_1715066733_217/1595980800 110.49761340773321,19.146209774179543.jpg",
+    "name": "1595980800 110.49761340773321,19.146209774179543.jpg",
+    "dateTaken": 1595980800,
+    "dateAdded": 1595980800000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "海南省",
+      "locality": "nan",
+      "subLocality": "琼海市",
+      "thoroughfare": "康祥路",
+      "subThoroughfare": "7号",
+      "addressDescription": "海南省琼海市中原镇南方电网汽车充电站(琼海博鳌超级医院海南电动)"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":32,\"timestamp\":\"2020-07-28\",\"department\":\"肿瘤科\",\"diagnosis\":\"小肠恶性肿瘤\"}",
+    "ocr": "博整超级医院 特许药品处方笺 特许 NO. T20200728001 年龄32岁 费用类别在职 电话158089 病历号10006413 姓名刘强 所在科室肿瘤科-邵永孚日床号26 身份证号 460100197411260310 病人地址海南省省 代办人姓名 代办人身份证号 临床诊断小肠恶性肿瘤 疼痛评分 RP: QINLOCK(ripretinib) tablets 50mg*1片 用法:150mg 性别0 性别 年龄 开方日期 2020/7/28 3片 一次性 口服 医生电子签名 周卫平 配方药师签名 注意:1.请勿遗失,处方当日有效 2.发药时请注明发药批号 医师手工签名 复核药师签名 药费:5000.0001 批号: "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/15/IMG_1715066733_223/1604592000 121.38417303086932,37.53494944991895.jpg",
+    "name": "1604592000 121.38417303086932,37.53494944991895.jpg",
+    "dateTaken": 1604592000,
+    "dateAdded": 1604592000000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "山东省",
+      "locality": "烟台市",
+      "subLocality": "芝罘区",
+      "thoroughfare": "毓璜顶东路",
+      "subThoroughfare": "16号",
+      "addressDescription": "山东省烟台市芝罘区毓璜顶街道烟台毓璜顶医院总院急救中心"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2020-11-05\",\"department\":\"\",\"diagnosis\":\"前列腺体积增大并钙化\"}",
+    "ocr": "烟台毓璜顶医院体检中心 检验境目 单位 提示 检验结果 同性 明性(一 明性(一 明性- 明性(-) 阿性(一) 7.5 1.010 潮性( 副性(-) 参考范围 副性(-) 阴性(-) 阴性(一) 明性(-) 副性(-) 阴性(-一) . Б-В. О 1(M3-L 030 图性(-) 副性(-) 白细胞(LEID 隐血(BLD) 承蛋白(PRO) 电(GL 国红素(B11 民租康(B 酸城度GD 床比重(SG) 花销酸盐(NI 国体KE 小结:  未见明星异常 肝功缩项 总胆红素(TBIL) 直接甲红素(DBIL 创楼租红素(IBIL 诚性磷能酷(ALP 一容氟航基转移酶(CGT 丙酸氨基转移酷(ALT) 天门冬氮酸复基转移酶(AST ASTIMT(AST:ALT) 小站 管功缩项 检查日期:2020-11-05 检验结果 单 11.1 o1/ 2.0 1mo1/L 91 u mol L Б8 /L 17 U/1 1 LA 21 tL 1.62 位验师:韩颗杰 参考花围 3.2-23.5 I0.0-в,8 3.0-19.0 45-125 10-60 9-50 15-40 枪验项目 提示 未见明显异常。 枪查日期:2020-11-05 检验结果 单位 5.14 mmo1/Л 5.99 mmol/れ 63 μnol /れ 0.10 309 检验师:节颖杰 誉考范围 3.80-6.20 3,60-9.50 57-111 检验项目 提示 宝泵动(GLLD 素(UREA) 机(CREA) 尿素:肌肝(UREA:CREA) 际酸(A) 小结: 血脂缩项 mol/れ 208-4PB 未见明显异常。 检查日期:2020-11-05 检验结果 单位 0.60 mo1/L 4.76 mmol/L 1.56 gupol/L 2.51 mol/ 检验师:韩颖杰 零考范园 0.40-1.70 3.12-5.72 1.04-1.96 1.53-3, 45 检验项日 提示 排油三酷(TG) 总职同静(CHOL) 高密度脂蛋白胆发意CHDL-C 低密度糖蛋白胆固醇(LDL-C) 小结: 未见明显异常, 体检中心B超室 肝胆胰牌肾(团体) 项目名称 开胆胰牌督 小结肝、胆、庆、脾、肾未见明显异常。 检查日期:2020-11-05 检查医师:张延延 检查结果 肚、胆、胰、胖、肾未见明显异常。 膀肤前列腺B超(不带图 项目名 情庆、前列腺 枪查日期:2020-11-05 检查医师:张延延 查结果 前列腺体积增大井钙化,大小约4.6*3.1*3.1cm. 第3/6页 刘平 TJ000836114 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/1/IMG_1715066733_225/1604622600 121.38417303086932,37.53494944991895.jpg",
+    "name": "1604622600 121.38417303086932,37.53494944991895.jpg",
+    "dateTaken": 1604622600,
+    "dateAdded": 1604622600000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "山东省",
+      "locality": "烟台市",
+      "subLocality": "芝罘区",
+      "thoroughfare": "毓璜顶东路",
+      "subThoroughfare": "16号",
+      "addressDescription": "山东省烟台市芝罘区毓璜顶街道烟台毓璜顶医院总院急救中心"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2020-11-05\",\"department\":\"\",\"diagnosis\":\"前列腺体积增大并钙化，窦性心率 肢体导联低电压 QRS电轴左偏\"}",
+    "ocr": "烟台毓璜顶医院 体检中心 小结:前列腺体积增大并钙化,大小约4.6*3.1*3.1cm. 体检中心X光室 胸部X线正侧位片(体检) 项目名称 胸部X线正侧位检查(体检) 小结: 未见明显异常。 检查日期:2020-11-05 检查医师:王风江 检查结果 胸廓对称,肋骨、锁骨连续,双肺野尚清,未见团片状影,心脏外形未见扩 大,双膈肌光滑,肋膈角锐利,其余未见特殊。 心电图室 常规心电图检查(自动分析) 项目名称 常规心电图检查(自动分析) 小结: 窦性心律 检查日期:2020-11-05 检查医师:王玥 检查结果 实性心律 肢体导联低电压 QRS电轴左偏 QRS电轴左偏 肢体导联低电压 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/4/IMG_1715066733_228/1610985600 113.32407285842942,23.191404724347237.jpg",
+    "name": "1610985600 113.32407285842942,23.191404724347237.jpg",
+    "dateTaken": 1610985600,
+    "dateAdded": 1610985600000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "广州市",
+      "subLocality": "白云区",
+      "thoroughfare": "京溪路",
+      "subThoroughfare": "1838号",
+      "addressDescription": "广东省广州市白云区京溪街道南方医科大学南方医院(院本部)消化楼"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"李丽\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2021-11-17 17:00:00\",\"department\":\"消化内科门诊\",\"diagnosis\":\"\"}",
+    "ocr": "预约挂号成功 您已经预约挂号成功! 就诊人:李丽 就诊时间:2021-11-1717:00-17:30 医院:南方医科大学南方医院 科室:消化内科门诊 展开√ 评价服务,促进我们提升服务的质量 完成 微信城市服务 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/13/IMG_1715066733_237/1614069032 121.37355229620967,31.21806202548191.jpg",
+    "name": "1614069032 121.37355229620967,31.21806202548191.jpg",
+    "dateTaken": 1614069032,
+    "dateAdded": 1614069032000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "上海市",
+      "locality": "上海市",
+      "subLocality": "长宁区",
+      "thoroughfare": "天山路",
+      "subThoroughfare": "16号",
+      "addressDescription": "上海市长宁区新泾镇上海长虹医院有限公司"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2021-02-23 15:18:04\",\"department\":\"外科\",\"diagnosis\":\"\"}",
+    "ocr": "就诊类型:普通 就诊信息 序 号:下午36号 就诊科室:外科 候诊日期:2021.02.23 候诊时间: 候诊地址:一楼西南区 诊疗费:15.00元 医保支付金额:15.00元 自费金额:0.00元 减免金额:0.00元 各注 (REHERENCE) 打印时间:2021-02-23 15:18:04 终端编号:XSSAYO4 萧内网 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/1/IMG_1715066733_241/1616657432 121.51379588146224,31.27523893719687.jpg",
+    "name": "1616657432 121.51379588146224,31.27523893719687.jpg",
+    "dateTaken": 1616657432,
+    "dateAdded": 1616657432000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "上海市",
+      "locality": "上海市",
+      "subLocality": "杨浦区",
+      "thoroughfare": "江浦路",
+      "subThoroughfare": "1437号",
+      "addressDescription": "上海市杨浦区江浦路街道上海交通大学医学院附属新华医院儿科办公楼"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":59,\"timestamp\":\"2021-02-25\",\"department\":\"消化内科\",\"diagnosis\":\"糜烂出血性胃窦炎\"}",
+    "ocr": "上海交通大学医学院附属新华医院 胃镜 性别1年龄59岁科别消化内科内镜号201102321 植間 OLYMPUS CL,Y-260 住院号V ß0&/»,37医院影後号 70193151 姓名赵萄 床号 食道 川高 十二指肠球部 十二指肠降段 店 胃角 内镜所见: 1号通畅,出状线站膜正常,炫动扩张度好, 开用自然 体热膜航发呈航园状,光滑 TA林果状,粘旺光滑究垫 育案粘膜克血水肿,散在魔足,出血,蠕动规则 尚门畸形,开闭不良, 十二指肠球部小穹见一清疡,直径1.0cm,覆白苦,周边粘膜光血水肿,管腔通畅,球都味 形球后及降段来见异常。 内镜诊断: 废燃出血性胃商炎,十二指肠球部清疡(AI),建议治疗后2月复查 内说专科门诊时间:每周一至周五下午。消化科门诊时间:周一至周六全天。 活检部位:胃实:2块  检宽制清 检态日期:2011-0-2 55人体 本服告仅供临床参考,不做幸斯体慰,经医师签名有效,  网易号|黑白映画 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/4/IMG_1715066733_244/1629257432 104.05854441541638,30.643543751606025.jpg",
+    "name": "1629257432 104.05854441541638,30.643543751606025.jpg",
+    "dateTaken": 1629257432,
+    "dateAdded": 1629257432000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "四川省",
+      "locality": "成都市",
+      "subLocality": "武侯区",
+      "thoroughfare": "电信路",
+      "subThoroughfare": "37号",
+      "addressDescription": "四川省成都市武侯区玉林街道华西牛奶四川大学华西医院"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":60,\"timestamp\":\"\",\"department\":\"血液内科\",\"diagnosis\":\"慢性粒细胞白血病\"}",
+    "ocr": "四川大学华西医院 疾病诊断书 年龄:60岁科室:血液内科门诊号:0007209 姓名:刘平 性别:0 主诉:反复乏力、头晕1月余, 现病史:患者于入院前1月无明显诱因出现乏力、头晕,恶心,食欲下降,全身 不适症状,伴有高热,最高体温达40.0°C,咳嗽,无咳痰,腹胀,无明显腹痛, 无鼻朗、牙龈出血,无便血、血尿。未进行任何特殊检查及明确诊断,今来我院 诊断治疗,我院诊断为\"慢性粒细胞白血病\"收住我科,患者入院后,急查血常规 回示ょWBC 47,6×109/1, RBC 1.25× 1012/L、HGB 46g/L, PLT 4× 109/Л. 初步诊断:慢性粒细胞白血病V5:1889058266 建议:住院治疗,结合临床医学诊治 川大学 主治医师 明专用皮 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/8/IMG_1715066733_248/1641085232 120.37519916964048,36.071148847543775.jpg",
+    "name": "1641085232 120.37519916964048,36.071148847543775.jpg",
+    "dateTaken": 1641085232,
+    "dateAdded": 1641085232000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "山东省",
+      "locality": "青岛市",
+      "subLocality": "市南区",
+      "thoroughfare": "闽江路",
+      "subThoroughfare": "1-4号",
+      "addressDescription": "山东省青岛市市南区香港中路街道中国人民解放军海军第九七一医院"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"孙英\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2022-01-01\",\"department\":\"急诊外科\",\"diagnosis\":\"\"}",
+    "ocr": "中国人民解放军海军第九七一医院 诊室:急诊外科 3960 人员保障类别:军人配偶 人员保障类别: 558513 挂号费:0.00 3费:0.00 免费医疗 诊查费: 合计: 0.00 0.00 id: 2022年01月01日 孙英X "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/11/IMG_1715066733_251/1645837200 106.50720773409489,29.621851936018366.jpg",
+    "name": "1645837200 106.50720773409489,29.621851936018366.jpg",
+    "dateTaken": 1645837200,
+    "dateAdded": 1645837200000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "重庆市",
+      "locality": "重庆市",
+      "subLocality": "渝北区",
+      "thoroughfare": "星光五路",
+      "subThoroughfare": "6号",
+      "addressDescription": "重庆市渝北区人和街道土星商务中心C2座"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2022-02-24 14:36:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": "角膜:双眼透明等大 右眼结膜:正常 左眼角膜:正常 左眼眼脸:正常 双眼对称度:对称 右眼球境:1.25 DS 左眼球镜:1.25 DS 交替遮盖:不动 瞳孔:等大等圆 右眼藏孔:正常 左眼结膜:正常 右眼红光反射:正常 右眼轴向:99° 左眼轴向:69 角膜映光:位正 右眼角膜:正常 右眼眼险:正常 左眼瞳孔:正常 左眼红光反射:正常 右眼柱镜:-1.25 DC 左眼柱镜:-1.25 DC 外观 红光反射 屈光筛查 斜视筛查 (З3cm) 医生签名:王荔 骨密度结果:正常 骨密度测定组套 骨密度 2022-02-2414:36 Z1: -0.94 医生签名:周梦 儿童发育评估量表-0-6岁儿童智能发育筛查测验 ST发育年 大运动发育龄:12月 社交发育龄:12月 龄 DQ: 91 DST评价:正常 DST 测试年龄:12 2022-02-2414:41 智力发育龄:11月 Ml, 医生签名:沈蒙蒙 力筛选试验 帝选名目 2022-02-2414:44 左耳:通过 听觉行为观察法:正常 :耳声发射 右耳:通过 医生签名:黄燕 此测试结果仅作测试日检测依据,结果仅供参考。 第2页,共2页 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/13/IMG_1715066733_253/1646236800 117.10737764252734,39.20659470593566.jpg",
+    "name": "1646236800 117.10737764252734,39.20659470593566.jpg",
+    "dateTaken": 1646236800,
+    "dateAdded": 1646236800000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "天津市",
+      "locality": "天津市",
+      "subLocality": "北辰区",
+      "thoroughfare": "龙岩道",
+      "subThoroughfare": "238号",
+      "addressDescription": "天津市北辰区北仓镇娃哈哈(第二儿童医院急诊一层店)天津市第二儿童医院"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":1,\"timestamp\":\"2022-03-02 12:48:18\",\"department\":\"发热门诊\",\"diagnosis\":\"\"}",
+    "ocr": "天津市儿童医院 窗口挂号凭证当日有效 排队号:0002 号(下午) 请按排队号依次就诊! (马场)发热门诊(自费) 发热门诊 门诊号:210302931971 姓名: 刘圆圆 性别: 1年龄:1岁 日期: 2022/03/02 项目 挂号费YO.00 医保支付 Y0.00 张户支付 ¥0.00 诊察费¥20.00 合计 Y20.00 个人支付 ¥20.00 米源 窗口挂号 支付方式 现金 挂号时间 2022/03/0212:48:18 操作员 7114 比先务请妥费保管,直至本次就诊结束 如思拱钢,谓子1月内到桂号收费窗口打印正式收据 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/16/IMG_1715066733_256/1649907032 112.97871494846359,28.21560293491003.jpg",
+    "name": "1649907032 112.97871494846359,28.21560293491003.jpg",
+    "dateTaken": 1649907032,
+    "dateAdded": 1649907032000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "湖南省",
+      "locality": "长沙市",
+      "subLocality": "开福区",
+      "thoroughfare": "湘雅路",
+      "subThoroughfare": "1号",
+      "addressDescription": "湖南省长沙市开福区湘雅路街道中南大学湘雅医院"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘平\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2024-04-14\",\"department\":\"门诊\",\"diagnosis\":\"\"}",
+    "ocr": "BD O 会 10:05 X 中南大学湘雅医院 预约详情 科 室:知名专家心血管科2 医 生:马琦琳 就诊日期:2022-04-14 就诊时段:上午10:00:00~10:30:00 姓 名:刘平 就诊序号:15号 挂号费:78元 地 点:门诊二楼E区E2-3门 支付方式:微信 AI医生帮您预诊(点击进入) "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/4/IMG_1715066733_260/1652513432 126.62237601921669,45.77186073188182.jpg",
+    "name": "1652513432 126.62237601921669,45.77186073188182.jpg",
+    "dateTaken": 1652513432,
+    "dateAdded": 1652513432000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "黑龙江省",
+      "locality": "哈尔滨市",
+      "subLocality": "道里区",
+      "thoroughfare": "柳树街",
+      "subThoroughfare": "8号",
+      "addressDescription": "黑龙江省哈尔滨市道里区兆麟街道哈尔滨市第一医院-国家级胸痛中心哈尔滨工业大学附属哈尔滨市第一医院"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":60,\"timestamp\":\"2022-05-14 14:43:00\",\"department\":\"\",\"diagnosis\":\"急性脑出血、高血压2级\"}",
+    "ocr": " 哈尔滨市第一医院 急诊电子病历记录单 号别:急诊 姓名:赵菊性别:1年龄:60岁 主诉:肢体乏力、言语不清伴呕吐1小时余 过去史:高血压病史 过敏史:无药物过敏史 现病史 Dr 206147/1018 家族史无 患者于1小时前进食后突发出现肢体乏力,言语不清,伴呕吐胃内容物,未见咖啡样物, 睡不安,无昏述、抽捕,无病痛。无呼吸困难,无发热,由家属达至急诊就诊 血压明显升高,查头颅CT示:急性脑出血,拟\"急性脑出血、高血压3级\"收住我科,起 病以来,精神欠佳,胃纳可,天小便无失装。 T : 36,8℃ P : 80次/分R: 180/10mlg。双時呼吸音増船、未国及複要音、心界左下が 大,心律齐,各振膜听诊区未闻病理性杂音。腹平软,无压痛、反跳痛,肠鸣音正常, 辅助检查:血常规:RBC 17.8X109L,N83.9% 体检: 诊断: 诊治计划 性制请 1、住院治疗 H0o770 、高血压级 SAB 神经外科 医生:李新 2022年05月14日14:43 网号|飞吧皮卡丘 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/9/IMG_1715066733_265/1653638100 113.99126527941802,22.528501305504637.jpg",
+    "name": "1653638100 113.99126527941802,22.528501305504637.jpg",
+    "dateTaken": 1653638100,
+    "dateAdded": 1653638100000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "深圳市",
+      "subLocality": "福田区",
+      "thoroughfare": "海园路",
+      "subThoroughfare": "1号",
+      "addressDescription": "广东省深圳市福田区沙头街道香港大学深圳医院-健康资讯中心"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"\",\"department\":\"皮肤科门诊\",\"diagnosis\":\"\"}",
+    "ocr": "香港大学深圳医院报到凭证 姓名:刘强 性别:0年龄:30 唯一病人号:AK5556982 科室:皮肤科一区 就诊地点:门诊四楼-皮肤科门诊 就诊时间:15:30-16:00 排队号:A16003 -温馨提示 提示:请凭此报到凭证就诊 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/15/IMG_1715066733_271/1655019032 104.06565882340662,30.61554935022002.jpg",
+    "name": "1657123200 116.45647721117194,39.89012637597012.jpg",
+    "dateTaken": 1657123200,
+    "dateAdded": 1657123200000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "北京市",
+      "locality": "北京市",
+      "subLocality": "朝阳区",
+      "thoroughfare": "广渠路",
+      "subThoroughfare": "44号33号",
+      "addressDescription": "北京市朝阳区劲松街道北京东区儿童医院图书馆"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":1,\"timestamp\":\"2022-07-06 09:40:00\",\"department\":\"专家门诊\",\"diagnosis\":\"\"}",
+    "ocr": "北京东区儿童医院 门诊号:62108869 姓名:刘圆圆 性别:1年龄:1岁4月 门诊号别:专家门诊 科室:小儿骨科 医生:邓京城 日期:2022-07-0609:40:00 金额:挂号费 985.00 合计:985.00 就诊号:25526805 请到:就诊 请注意,本挂号单当日有效! "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/4/IMG_1715066733_308/1677547832 113.30975053848438,22.97362840053393.jpg",
+    "name": "1678982400 116.33481489241426,27.961703044404132.jpg",
+    "dateTaken": 1678982400,
+    "dateAdded": 1678982400000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "江西省",
+      "locality": "抚州市",
+      "subLocality": "临川区",
+      "thoroughfare": "迎宾大道",
+      "subThoroughfare": "45号",
+      "addressDescription": "江西省抚州市临川区青云街道抚州市第一人民医院-住院部抚州市第一人民医院(新院区)"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2023-03-16 07:55:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": "抚州市第一人民医院 行一 CT检查诊断报告单 性别:1 年龄:2岁 病区:急诊IC床号:EICU3 临床诊斯: 姓名刘网圆 住院号:00495096 门诊号: 检查项日:CT颅脑平扫、胸部CT平扫,上腹部CT平扫 检查号:CT221743 影像号:P0487581 检查所见: 左侧颅骨呈术后部分缺如,术区见团片状高密度影及积气,大脑便及左倒小脑筑易密度增 高。脑中线轻度右偏。右侧项骨内板下见梭形高密度影,左侧颜枕骨见线样透亮影 病席对称,气管插管。两转纹理增多,透亮度离可,右上种见一条素影,以隔居中,纵店 内未见明显肿大淋巴结,心影不大,主动脉号下方见一管状高密度影,双侧胸腔未见明品 积液 肝脏大小、形志正常。肝实质密度均匀,未见局灶性密度异常,轩内血管走行正常,旺内 外胆管无扩张:服囊不大,腔内未见明品阳性站石密度影:牌不大,实质内未见明品异常 市度影:胰腺大小形态及密度正常。腹腔内未见明品积液 影像诊断: 1.左阅脑控伤术后,颅骨部分缺如,颅内积气 2、城网膜下腔出血可能 3.右侧顶邮使膜外血种。 4、左侧跟枕骨骨折。 5、右上肺条索影, 6、主动献弓下方致密影,请结合临床 7、上腹部CT平扫来见明品异常。 报告日期:2023-03-16 07:55 诊新医师:郑丽 审核医师: 6-0P "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/7/IMG_1715066733_311/1678982400 116.33481489241426,27.961703044404132.jpg",
+    "name": "1679448632 118.8222322828204,32.08320723428398.jpg",
+    "dateTaken": 1679448632,
+    "dateAdded": 1679448632000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "江苏省",
+      "locality": "南京市",
+      "subLocality": "玄武区",
+      "thoroughfare": "蒋王庙街",
+      "subThoroughfare": "116号",
+      "addressDescription": "江苏省南京市玄武区玄武湖街道中国医学科学院皮肤病医院"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023-02-22 07:20:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": "中国医学科学院 北京协和匠业 店 中国医学科学院皮肤病医院 姓名 卡号:0010565048 乐 诊室:五诊室 ..普通门诊1-15诊室 印时间:2023.02.22 07:20 了ル小亏:T00008136954 机器号:PYS019 订单流水号:202302220719096882303001266525 医保收费单据号: 总金额:12.00元 统筹支付:0.00元 签到候诊,过号重签,当班有效,遗失可 至自助机补打凭条。如需发票:可在180天 内至自助机打印发票。如需退号:上午号 请于8:30前至门诊收费窗口办理,下午号 请于14:30前至收费窗口办理。 打印时间:2023-02-22 07:19 个人支付:12.00元 医保支付:0.00元 挂号员:自助机 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/11/IMG_1715066733_315/1679448632 118.8222322828204,32.08320723428398.jpg",
+    "name": "1680537600 121.47303894867053,31.25896818603942.jpg",
+    "dateTaken": 1680537600,
+    "dateAdded": 1680537600000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "上海市",
+      "locality": "上海市",
+      "subLocality": "静安区",
+      "thoroughfare": "宝通路",
+      "subThoroughfare": "273号",
+      "addressDescription": "上海市静安区宝山路街道上海六一儿童医院学习困难门诊宝山路499弄小区"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2023-04-03\",\"department\":\"内科综合门诊\",\"diagnosis\":\"\"}",
+    "ocr": "姓名:刘圆圆 年新:2岁 性别:1 10号:003326824600 就诊科室:内科综合门诊 专业 号别:普通门诊 就诊序号:(下午)第182号 就诊医生 就诊日期:2023-04-03 建议就诊时段:14:00-15:00 就诊地点:一层南侧,请前往分诊台报到 挂号渠道:公众号 类型:白费 流水号:50287843 机器编号:27j057 医事服务费:50.00元 实付金额:0.00元 打印时间:2023-04-0313:13:14 支付时间:2023-04-0311:06:09 1抽卡就医,当班有效,如痛票据,满您灯我院公 众号内章汽电子票庭 2初诊来与患儿不予万药,复诊来河惠儿,高提供 一个月内置儿所就诊病历,西别不不开药 3A京7天四民老开一次、小儿方建发 IIn-一 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/15/IMG_1715066733_319/1680537600 121.47303894867053,31.25896818603942.jpg",
+    "name": "1680571832 126.6173062744306,45.73793264134231.jpg",
+    "dateTaken": 1680571832,
+    "dateAdded": 1680571832000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "黑龙江省",
+      "locality": "哈尔滨市",
+      "subLocality": "南岗区",
+      "thoroughfare": "汉阳街",
+      "subThoroughfare": "71号",
+      "addressDescription": "黑龙江省哈尔滨市南岗区通达街道哈尔滨市骨伤科医院"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":61,\"timestamp\":\"2023-04-03 14:43:00\",\"department\":\"外科门诊\",\"diagnosis\":\"右胸第6前肋骨折\"}",
+    "ocr": "方吹积 哈尔滨骨伤科医院 CT诊断报告单 哈尔滨市索坊科医院 HatiaOrgeoSepy 影像号:CT00114442 姓名:赵菊 门诊号:02710549 检查项目:16排螺旋X线计算机体层(CT)平扫3部位(胸部) 检查部位:胸部 影像学表现: 右胸第6前肋见局部骨质密度增高,内隐约见低密度线样影:双肺纹理清晰,未见 明显实变影。 性别:1 住院号: 年龄:61 岁 床号: 申请科室:外科门诊 申请医生:张罡 影像学诊断: 右胸第6前肋骨折(恢复期); 请结合临床及病史 报告医师:崔万辉 报告日期:2023.04.03 审核医师:崔万辉 审核日期: 本报告仅供临床医生参考,签字有效。 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/12/IMG_1715066733_332/121.65405938282537,31.18880930733514 -2 (2).jpg",
+    "name": "1686619832 121.44937844649733,31.199600363168532.jpg",
+    "dateTaken": 1686619832,
+    "dateAdded": 1686619832000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "上海市",
+      "locality": "上海市",
+      "subLocality": "徐汇区",
+      "thoroughfare": "医学院路",
+      "subThoroughfare": "180号",
+      "addressDescription": "上海市徐汇区枫林路街道中山医院外科大楼复旦大学附属中山医院"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023-06-13 08:54:26\",\"department\":\"\",\"diagnosis\":\"窦性心律不齐\"}",
+    "ocr": " 2023-06-13 08:54:26 HR :76 bpm 84 ms PR 105 ms ORS 100 ms отютс : 356/401 PORS/T : 6785/S5 RVSSV1 : 1.8190,894 mV 136 诊断信息: 窦性心律不齐 短PR间期 ms  报告需医生确认: V1 ¥76 SE-1201 V1.40. SEMIP V1.8 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/16/IMG_1715066733_336/1684557032 116.37742038352464,39.92299845302069.jpg",
+    "name": "1689091200 118.76872646429774,32.04303568241276.jpg",
+    "dateTaken": 1689091200,
+    "dateAdded": 1689091200000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "江苏省",
+      "locality": "南京市",
+      "subLocality": "秦淮区",
+      "thoroughfare": "石鼓路",
+      "subThoroughfare": "165-1号",
+      "addressDescription": "江苏省南京市秦淮区朝天宫街道江苏省中医院体检中心"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2023-07-11 17:11:00\",\"department\":\"儿科\",\"diagnosis\":\"右胸第6前肋骨折\"}",
+    "ocr": "订中医院 南京中医药大学附属医院 门诊病历 性别:1 科室:儿科 1005332112 姓名:刘圆圆 门诊号:82647538 南沙参 10g 麦冬 10g 蜜百部 10g 紫草 10g 蜜桑白皮 10g 7甘草 4g 防风(野生)3g 焦山楂6g 14付 年龄:2岁 就诊日期:2023-07-11 17:11 钩藤 9g 北沙参 10g 稀签草 10g 蜜款冬花 10g 法半夏 6g 麸炒白术1 10g 矮地茶10g 瓜萎皮 200m1 「后下」 日两次 水煎 服中医院 江苏省中医院 签章: 医生签名:串江个 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/2/IMG_1715066733_338/1686619832 121.44937844649733,31.199600363168532.jpg",
+    "name": "1689436800 114.4024909243201,30.50857609073272.jpg",
+    "dateTaken": 1689436800,
+    "dateAdded": 1689436800000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "湖北省",
+      "locality": "武汉市",
+      "subLocality": "洪山区",
+      "thoroughfare": "珞喻路",
+      "subThoroughfare": "846号",
+      "addressDescription": "湖北省武汉市洪山区关山街道国家中医临床研究基地湖北综合大楼湖北省中医院"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"11:41:07\",\"department\":\"\",\"diagnosis\":\"痤疮、郁病\"}",
+    "ocr": "临床诊断:痤疮、郁病(湿证、湿热壅滞证) Rp 豆蔻(白豆蔻)15g 生白芍 15g 山药 15g 玫瑰花 15g 蒲公英 30g 甘草6g 茵陈蒿 12g 白术 15g 法夏 15g 桔梗 12g 猪苓 20g 龙胆 10g 郁金 15g 麸炒积壳 15g 净山楂 12g 荷叶 12g 麻黄 6g 陈皮 12g 桑白皮 15g 白鲜皮 15g 紫花地丁 15g 黄连 6g 虎杖 15g 生栀子 12g 土茯苓 15g 炒疾藜 15g 蛇床子 15g 地肤子 15g 党参 15g 绿尊梅(梅花)15g 滑石粉 15g 湖 茯苓 20g 麸炒积实 15g 柴胡12g 酒黄芩12g 一石蒲|10g 连趣30g 天菜子15g 丹皮 12g 八月札 15g 皂角刺 15g 广蕾香 12g 药品金额: 打印时间:11:41:07 医师:余景圣 审核药师: 调剂药师/士: 核对发药药师: 温馨提示:1、本处方当天有效:2、取药时请仔细核对清单,点齐药品; 3、依《医疗机构药事管理暂行规定》第二十七条\"为保证患者用药安全,药品 增门诊中药房 诊收热 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/3/IMG_1715066733_339/1687190400 113.35171906856375,22.951935280259853.jpg",
+    "name": "1689523200 121.39030871723025,31.141069936061687.jpg",
+    "dateTaken": 1689523200,
+    "dateAdded": 1689523200000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "上海市",
+      "locality": "上海市",
+      "subLocality": "闵行区",
+      "thoroughfare": "顾戴路",
+      "subThoroughfare": "399号",
+      "addressDescription": "上海市闵行区梅陇镇复旦大学附属儿科医院"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2021-02-13\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": "儿童2岁健康检查结果 保健号:0001020030000058352 日明关注您的孕育小管家 性别1性 身高94cm 姓名刘圆圆 体重 15.3kg 眼睛 左:未见异常右: 出生日期 13 物国 cm 血红蛋白g/L 预约日期安排 2023-08-13 2024-02-13 2025-02-13 2026-02-13 2027-02-13 咬合畸形无 2021-02- 年龄 2岁5月 头园 cT 卤门 合 心脏 未见异常 b 未见开常 肝脏 未触及 牌脏 未触及 牙齿清洁度 清洁 牙齿 16颗 其它体证 体重评价:P85-P95(中);身高评价:P75-P85(中);身高体重 评价:P85-P95(中); 指导:科学喂养;合理膳食;生长发育;疾病预防;预防伤害;口腔 保健:眼部保健: 月龄指导:规律就餐,白主进食不执食,避免强迫进食和过度 进食:每天饮奶300-400毫升,足量饮水:食物应易于消化,少 调料、少油炸:参与食物选择与制作,增进对食物的认知与喜 爱;学习独白上下棱梯,单腿站;教幼儿说出自己的姓名、性 别、身体部位以及一此短句和歌递:保证每日户外活动时间累计 小时以上:0~3岁幼儿禁用手机、电视、电脑等视屏类电子产 北青联合营养均衡:定期进 结论 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/10/IMG_1715066733_346/1689091200 118.76872646429774,32.04303568241276.jpg",
+    "name": "1690335000 124.35639117710583,43.174776320471665.jpg",
+    "dateTaken": 1690335000,
+    "dateAdded": 1690335000000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "吉林省",
+      "locality": "四平市",
+      "subLocality": "铁西区",
+      "thoroughfare": "中央西路",
+      "subThoroughfare": "103号",
+      "addressDescription": "吉林省四平市铁西区仁兴街道中央西路吉林省脑科医院(东北1门)"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"赵菊\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": "四平中心医院-健康管理中心 「各分科检查结果」 动脉检查家 项目名称 检查结论 18O70202я4 赵菊 检查结果 与健康的同龄人租比硕 检查医生 李箱 血常规 项日名称 白部质 中性粒细胞百分比 淋巴细胞百分车 单核细胞百分比 唯酸性粒细胞百分比 嗜碱性粒编胞百分比 中性粒细胞绝对值 淋巴细胞绝对值 单核细胞绝对值 喷舰性校细胞绝对值 喷诚性粒细胞绝对值 红细胞 血红蛋白 红细胞压积 平均红细胞体积 平均血红蛋白含量 平均血红蛋白浓度 红细胞分布宽度 直小板 平均血小板体积 血小板分布宽度 血小板比积 检查结果 4.5 54.7 35.8 5.2 3.9 0.4 2.50 1.6 0.2 0.20 0.00 4.81 147 44.6 92.7 30.5 329 13.3 97 8.5 16.9 0.082 参考值 「单位 4-10 40-70 18. 7-47, 0 3-8 0.5-5 0-1 2-7 1.0-3. 3 0.2-0.7 0.02-0.5 0-0.1 3.5-5.5 110-160 35-50 82-95 27-31 320-360 11.6-13, 7 100-300 7.8-11.0 15. 5-17. 1 0.19-0.36 10 eれ. 109/ 109/ 109/ 109/儿 10´9/L 10°12/L R/L L pE g/L 109/0 L 1   检验医师:郭丽平 生化 项目名称 总胆固醇 甘油三酯 高密度脂蛋白 低密度脂蛋白 检查结果 参考值 单位 3.55 1.04 1.29 1.63 3.1-5.1 0.48-1.82 0.9-2.5 0-4.11 m間olЛ mol/. mol/L Immol/ 1807020284 第 16/31 页 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/14/IMG_1715066733_350/1689523200 121.39030871723025,31.141069936061687.jpg",
+    "name": "1690592400 113.28565791168363,23.129035532889795.jpg",
+    "dateTaken": 1690592400,
+    "dateAdded": 1690592400000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "广州市",
+      "subLocality": "越秀区",
+      "thoroughfare": "nan",
+      "subThoroughfare": "4号",
+      "addressDescription": "广东省广州市越秀区农林街道中山大学附属第一医院"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"心血管内科\",\"diagnosis\":\"\"}",
+    "ocr": "电请和家:心电管内科二病区 收查服伦:心脏影超通声计算机围文报告 庆号 n号: 住院号: 招声所见: 卢值 (单位括号内为正常成人参考值) AO爱环17(20-31),电25(2945)电管交厅20(22-36)AND23(22-36) FA主T21(18-26),家电ISD(6-)UWDE(6-11) A前后轻S26(20-35)2535(27-40),街41(35-58) A2531(25452.长径541(355001 LV前后格D33(0:40-55.1:35-50).S27(as.1(30) 后D15415-20,基底楼径D25(32-42).RVoT20(21-33) 二等口管向庄流:7e/PCn口的向土汽:Yp55/iumlis 主动社每口前向点湾:Vp112cm/sPG 5aallg,长每口前向电法:Vp920m/.PG3 超声特生各房率院内径正意,主动林内轻正常,管望光州、烤幅正常:主脑动休内轻正常各街 #春量活动正赛,宣地手度正常,活动协训,州幅正常,心色室壁动力分析及心内婴自动出检面 收库与好装时心内度率助位移正常,彭阶价星次正常,心室节段和整体面积随心动博期的变化正常 房室国第连续性好,心有及心包停未兄异常,X:二尖面双峰,前后叶向。E-世简更相等, 高色夏餐多话和:未见分常血流信号。 心功配:EF 59V.SV 3801,二尖是口血酒奶语:E-79ca/s.A-731/8/AFLL室 e'-16.Tca/s.E/o'-5.3.(性。中国成人委专值连荐F0件选,1博 为经度减任,305\"40%为中度减任,O路为饭 招南楼示: 心内结构及舞膜活动大见异常 多谱助立流服像未见经常 左心收增功能正* 此报告仅供参考,基字有效,复迪时请德带此报告 录入员:黄婷 检查庆生: 黄婷 报告日期:2023-07-2810:08:36 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/3/IMG_1715066733_355/1690300800 124.35639117710583,43.174776320471665.jpg",
+    "name": "1690905600 105.56842567820317,30.512609044785663.jpg",
+    "dateTaken": 1690905600,
+    "dateAdded": 1690905600000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "四川省",
+      "locality": "遂宁市",
+      "subLocality": "船山区",
+      "thoroughfare": "和平西路",
+      "subThoroughfare": "68号",
+      "addressDescription": "四川省遂宁市船山区介福路街道遂宁市中医院和平路院区"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":62,\"timestamp\":\"2023-08-01 08:26:26\",\"department\":\"皮肤科门诊\",\"diagnosis\":\"痤疮、粉刺，湿疹，湿热毒蕴症\"}",
+    "ocr": "普通 NO:159282 1/1 遂宁市中医院暨遂宁市妇幼保健院 门诊中药处方 就诊卡0000000829681 费别:自费医疗科别:皮肤科门诊(和平路) 性别 姓名:赵菊 :1 年龄:62岁 开方时间 2023年08月01日 08:26:26 临床诊断及证型:痤疮粉刺、湿疹、湿热毒蕴证  地黄 地肤子 15g 防风 15g 盐黄柏 15g 忍冬藤 30g 15g 牡丹皮 15g 白鲜皮 15g 地榆 30g 炒疾藜30g 麸炒苍术15g 赤芍 15g 荆芥 15g 大叶茜草10g 连通 15g 茯苓 15g 剂数7剂 医师: 药师(审核、校对、发药): 用法:自煎 备性:共1味,自赢,常规息,每日1孔、共制,分早中晚三次连用7天。共7剂 金额: 318.07 药师/士(调配): 老* HONOR Magic V2外地、需医生确认;4、根据有关规定,药品一经发出,不 长处万用业时简票 2.取药时请您当面楼对药品名称、规神 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/4/IMG_1715066733_356/1690331400 124.35639117710583,43.174776320471665.jpg",
+    "name": "1690905600 114.90597220383877,25.824105780557595.jpg",
+    "dateTaken": 1690905600,
+    "dateAdded": 1690905600000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "江西省",
+      "locality": "赣州市",
+      "subLocality": "章贡区",
+      "thoroughfare": "水南路",
+      "subThoroughfare": "1号",
+      "addressDescription": "江西省赣州市章贡区黄金岭街道赣州市妇幼保健院新院(赣康路院区)"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2023-07-31 12:09:24\",\"department\":\"儿童保健门诊\",\"diagnosis\":\"\"}",
+    "ocr": "赣州市妇幼保健院0单 维生素9项测定 标本号:7 检验时间:2023-07-31 12:09:2 接收时间:2023/7/31 12:09:24 姓名:刘圆圆 性别:1 年龄:2岁 NO 诊断:健康查体 科室:儿童保健门诊(赣康路标本:血清 床号: 病历号: 备注: 结果 参考值 0.7-1.4不足 1.77 <0.7缺乏 1.4-2.79均衡 >2.79过量 200.00~900.00 50.00~150.00 4.26~18.42 14.60~72.90 6.80~36.30 34.00~114.00 <50缺乏 50-75不足 75-375均衡 >375过量 5.00~20.00 项目名称 维生素A 单位 umol/L 测定方法 电化学发光 nmol/L ug/L pg/mL. nmol/L nmolЛ umol/L nmol/L 电化学发光 电化学发光 电化学发光 电化学发光 电化学发光 电化学发光 电化学发光 维生素B1 维生素B12 维生素B2 维生素B6 维生素B9 维生素C 维生素D 298.02 102.23 5.17 29.96 15.34 27.32 81.77 3 4  -  电化学发光 10.60 ug/ml 维生素E 报告时间:2023-08-01 11:46 黄通:13000V(新院) 检验者: 申请医生:邱文英 注:本次结果仅对本样本有效,供医师参考。电话:0797-5569872 李丽丽 审核者: "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/7/IMG_1715066733_359/1690336200 124.35639117710583,43.174776320471665.jpg",
+    "name": "1691596800 113.3148246493507,23.127493146615503.jpg",
+    "dateTaken": 1691596800,
+    "dateAdded": 1691596800000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "广州市",
+      "subLocality": "天河区",
+      "thoroughfare": "金穗路",
+      "subThoroughfare": "9号",
+      "addressDescription": "广东省广州市天河区冼村街道广州市妇1儿童医疗中心(珠江新城院区)"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘圆圆\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023-08-09\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": "12:21 164% EN 3 广州健康通 预约成功提醒 您挂了儿保主治的号 姓名: 医生: 医院: 日期: 时间: 序号: 诊查费: 备注: 刘圆圆 郑琪琪儿保主治 广州市妇1儿童医疗中心(珠江新城) 2023-08-09星期三 上午08:00-08:30 48604207 13.00元 请凭就诊卡号: 1000001817097干就 诊当天07:30前到护士站报到,过时取 消并记一次爽约,报到地址:(2楼)儿 保2室(护士站} 点击查看就诊详情,您可提前查看医院 或周边泊车位信息。 查看并管理更多消息 发现更多政务服务 挂号缴费 健康助手 个人信息 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/12/IMG_1715066733_380/1690592400 113.28565791168363,23.129035532889795.jpg",
+    "name": "1693324800 117.9766996581412,36.799758395213935.jpg",
+    "dateTaken": 1693324800,
+    "dateAdded": 1693324800000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "山东省",
+      "locality": "淄博市",
+      "subLocality": "张店区",
+      "thoroughfare": "nan",
+      "subThoroughfare": "9号",
+      "addressDescription": "山东省淄博市张店区马尚街道和平路张店区妇幼保健院(和平路院区)"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2021-02-12\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": "儿童入园(所)健康检查表 意向幼儿园: 姓名 既往 病史 过敏史 2岁6个月 出生日期 2021-02-12 刘圆圆 性别 1 年龄 家长签字 左 身高 101 未见明 显异常 耳 显异常 未见明龋齿数 四肢 脊柱 未见明显异常 BMI 15.7 联系电话 评价 中高 蛋清 评价 中高 16 评价 中高 未见明显异常 体重 自牙齿数 20 左 左 球 皮肤 未见明 显异常 未见明显异 未测 眼 右 力 未测  未见明 显异常 扁桃体 At 淋巴 结 右 O 未见明显异 常 未见明显异 头颅 常 咽部 胸廊 显异常 未见明 未见明显异常 外生 未触及 殖器 未见明显异 心肺 常 肝牌 未查 3 丙氨酸氨基转移酶 (ALT) 正常 34と 血红蛋白(Hb)  检查 结果 未见异常 医生意见 可以入园 检查单位:张店区妇幼保健院 医师签名: (检查单位盖章 检查日期2023-08-29 体格检直 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/6/IMG_1715066733_390/1691078400 114.90597220383877,25.824105780557595.jpg",
+    "name": "1698139052 121.14355519984309,31.464124665741505.jpg",
+    "dateTaken": 1698139052,
+    "dateAdded": 1698139052000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "江苏省",
+      "locality": "苏州市",
+      "subLocality": "太仓市",
+      "thoroughfare": "常胜南路",
+      "subThoroughfare": "70号",
+      "addressDescription": "江苏省苏州市太仓市娄东街道常胜南路华联超市"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"2023-10-24 15:11:11\",\"department\":\"\",\"diagnosis\":\"1.窦性心律 2.T波稍高耸\"}",
+    "ocr": "床号: ID号: ISEO0495804X 姓名:刘强 性别:0 年龄:30岁 太仓市第一人民医院 心电图报告 心率:63bpm SV1: 0. 12mV RV5: 1.582my RV5+SV1:1.702mv P-R间期: 156ms QRS时限: 92ms QT/QTc: 368/377ms 电轴: 81 诊断:1.窦性心律 2.T波稍高耸 2023/10/24 15:10:05 25lmm/s 10mm/mv hthahnt hatht hhhhhhhhhh 就燕 报告日期:2023-10-24 15:11:11 报告确认者: (本报告仅供临床医师结合临床参考,不作诊断证明之用) "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/8/IMG_1715066733_424/1700956800 120.55306922588662,30.641196546856897.jpg",
+    "name": "1704211200 121.56125175067324,29.840218051417178.jpg",
+    "dateTaken": 1704211200,
+    "dateAdded": 1704211200000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "浙江省",
+      "locality": "宁波市",
+      "subLocality": "鄞州区",
+      "thoroughfare": "麦德龙路",
+      "subThoroughfare": "68号",
+      "addressDescription": "浙江省宁波市鄞州区中河街道宁波鄞州牙科医院钱湖分院传奇广场"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":62,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": "09:437 电子报告 北州保专料程供福R医生电  现告医生海 入  12/23  恒  电子 项口甲北牌彩租 A易配值胎   甲状·甲状方大小正常,左叶内见一个低回声结节。大小的1.7X5.5m.楼比大于1,COF 内见少量自地信号,左叶内见一个喜实性结节,大小的7.9X3.5m.边界请.COFL:内来 明导车流信号,左叶内见一类同形无回卢结节:大小约2.7XL8m:边界消,星南光滑 :后壁回声增强,内部未见血说, 小情:甲状服左时结节。II-RADS分类-类 甲状服左叶结节:11-RAIDS分类-2类 北康受科权街  录入员  13/ラ1 5告区 点:赵地 012 L lla ste "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/11/IMG_1715066733_427/121.65405938282537,31.18880930733514 -1 (10).jpg",
+    "name": "1704504632 121.48433510088131,31.254996883184603.jpg",
+    "dateTaken": 1704504632,
+    "dateAdded": 1704504632000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "上海市",
+      "locality": "上海市",
+      "subLocality": "虹口区",
+      "thoroughfare": "武进路",
+      "subThoroughfare": "85号",
+      "addressDescription": "上海市虹口区四川北路街道北海宁路45弄1号上海市第一人民医院"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"急诊内科\",\"diagnosis\":\"\"}",
+    "ocr": "合急诊→A   A区综合角诊 别:急诊 斗室:急诊内科 序号:668 室位置:2号楼急诊楼二楼 就诊日期:01月06日请务必夜间就诊! 诊查费 诊查费 合汁(大写): 个人现金支付:6.00 6.00 21.00 总计:¥27.00 贰拾柴元 支付字:6.00元) "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/14/IMG_1715066733_430/121.65405938282537,31.18880930733514 -2 (7).jpg",
+    "name": "1705023032 116.39733191879738,39.971457791669785.jpg",
+    "dateTaken": 1705023032,
+    "dateAdded": 1705023032000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "北京市",
+      "locality": "北京市",
+      "subLocality": "朝阳区",
+      "thoroughfare": "安贞路",
+      "subThoroughfare": "2号院8号",
+      "addressDescription": "北京市朝阳区安贞街道安贞医院停车场首都医科大学附属北京安贞医院"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"李丽\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2024-01-12 09:03:00\",\"department\":\"感染科\",\"diagnosis\":\"1.感染性发热；2.呼吸道感染；3.已知病毒的流行性感冒（乙型）\"}",
+    "ocr": "首都医科大学册属北京安员医院 Being Anzhen Hesr e eua iniversity 门(急)诊病历 姓名:李丽 科室:感染科(急诊) 登记号:号: 过敏史:否认 体格检查:T38.5°C,意识清,浅表淋巴结未触及,皮肤粘膜正常,巩膜未见黄疸,无咽红肿,扁桃体无肿大,无化脓,肺 部:无湿啰音、干啰音,心脏:心律齐、未及心脏杂音,腹软、无压痛及反跳痛、肝脾肋下未触及,双肾区叩痛阴性。双下 肢不肿。 辅助检查: 诊 处 断:1.感染性发热;2.呼吸道感染;3.已知病毒的流行性感冒(乙型) 理:1 全血细胞分析(五分类)+C反应蛋白 27项呼吸道病原体RNA检测 3 静脉采血 4 金花清感颗粒(5g*6袋)5 g每日三次3天 5 柴银颗粒(8g*10袋)8 g 每日三次3天 6 泰诺林缓释片(0.65g)0.65 g 必要时1天 7玛巴洛沙韦片(20mg*2片)40 mg 每日一次1天 病情变化及处置:不适随诊 医师签名: 日期:2024年01月12日 09:03 第(2)页 共2页 打印日期:2024年01月12日 09:03 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/2/IMG_1715066733_434/121.65405938282537,31.18880930733514 -2 (9).jpg",
+    "name": "1705766400 119.98426401619359,30.27414084474275.jpg",
+    "dateTaken": 1705766400,
+    "dateAdded": 1705766400000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "浙江省",
+      "locality": "杭州市",
+      "subLocality": "余杭区",
+      "thoroughfare": "文一西路",
+      "subThoroughfare": "1367号",
+      "addressDescription": "浙江省杭州市余杭区仓前街道浙大一院总部浙江大学医学院附属第一医院"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":0,\"timestamp\":\"1961-06-01\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": "赵菊 检查号: 机房号: 排队号: 检查部位: 4 1961-045 uS558425o 诊室7 7-022 甲状腺(左 侧),甲状腺 (右侧),甲 状旁腺左 侧,甲状旁 腺右侧,颈 部淋巴结, 超声弹性成 像 门诊患者检查10分钟后 请到自助报告机上刷别此 OLVTEO区动 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/3/IMG_1715066733_435/121.65405938282537,31.18880930733514 -2 (10).jpg",
+    "name": "1705798800 119.98426401619359,30.27414084474275.jpg",
+    "dateTaken": 1705798800,
+    "dateAdded": 1705798800000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "浙江省",
+      "locality": "杭州市",
+      "subLocality": "余杭区",
+      "thoroughfare": "文一西路",
+      "subThoroughfare": "1367号",
+      "addressDescription": "浙江省杭州市余杭区仓前街道浙大一院总部浙江大学医学院附属第一医院"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2024-01-20\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": "甲状腺结节 L:G29、甲状腺及颈部淋巴结彩超 超声所见: 右侧甲状腺形态正常,大小正党,实包膜来爱,北内可里一米围形异常回声,其中大小约4X 5纵横比大于1,边界较ee,其内未里导常血流信号,双 侧叶另可见无回声,大小分别约界境:COFL:未见异常血流信号 双侧颈部未见明显肿大淋巴结 超声提示: 1、右侧甲状腺异常声像(TI-RADS分级4级) 2、甲状腺双侧叶囊性回声(TI-RADS分级2级)。 3、双侧颈部未见明显异常肿大淋巴结。 记录医生:谭辛汉诊断医生:健丰会诊医生:博本检查日期:2024-01-20 热影像学检奇方法,具有品限性,不王 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/6/IMG_1715066733_438/121.65405938282537,31.18880930733514 -1 (11).jpg",
+    "name": "1705800900 119.98426401619359,30.27414084474275.jpg",
+    "dateTaken": 1705800900,
+    "dateAdded": 1705800900000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "浙江省",
+      "locality": "杭州市",
+      "subLocality": "余杭区",
+      "thoroughfare": "文一西路",
+      "subThoroughfare": "1367号",
+      "addressDescription": "浙江省杭州市余杭区仓前街道浙大一院总部浙江大学医学院附属第一医院"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": "t政电子票据查验网站http://pjcy.mof.gov.cn 日可查询) 请扫描上方二维码获取相关票据,请妥善保管。 3.此结算单不做报销使用,退费凭此单及就诊卡。 4.院内自助票据打印机提供打印服务,仅限一次。 名称 数量 105 105 105 105 70 70 42 70 70 21 70 105 105 105 单价 0.12 0.06 0.175 0.04 0.16 0.1 O.34 0.11 0.08 0.11 0.1 0.06 0.1 0.075 金额 12.6 6.3 18.38 4.2 11.2 7 14.28 7.7 5.6 2.31 [代]夏桔草 [代]蒲公英 [代]浙贝母 [代]牡蛎(先煎) [代]皂角刺 [代]蜜缺炒积壳 [代]柴胡 [代]川芎 [代]制香附 [代]蜜炙甘草 [代]蜜麸炒白节 ※[代]薏故仁 [代]丹参 [代]白花蛇舌草 中医辨证论治 煎药机煎药(门诊) 7 6.3 10.5 7.88 2 17.5 2 2.5 一 N 以下空白 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/8/IMG_1715066733_440/121.65405938282537,31.18880930733514 -1 (12).jpg",
+    "name": "1706025600 121.42648733832867,31.2684804357839.jpg",
+    "dateTaken": 1706025600,
+    "dateAdded": 1706025600000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "上海市",
+      "locality": "上海市",
+      "subLocality": "普陀区",
+      "thoroughfare": "新村路",
+      "subThoroughfare": "380号",
+      "addressDescription": "上海市普陀区甘泉路街道同济大学附属同济医院甘泉楼住院部4号楼"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘圆圆\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2024-01-23\",\"department\":\"门诊\",\"diagnosis\":\"\"}",
+    "ocr": "7:45  我的预约 订单状态:挂号成功 刘铜林医生 就诊医院:主院区 挂号科室:儿童急诊重症医学科 科室位置:第二门诊(10号楼)2楼 就诊时间:2024-01-23周二下午 门诊类型:专家号 挂号费用:26.50元 挂号渠道:掌上同济APP 就诊序号:5 科室导航 就诊序号: 就诊位置: 就诊人 刘圆圆 就诊时段 14:30-15:30 温馨提示: 1.当日挂号不能线上取消,若需取消,请就诊当日到医院现场 办理。 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/11/IMG_1715066733_443/1704297600 106.59140243154798,29.59709307283786.jpg",
+    "name": "1706284800 121.37984035230095,31.247310280536116.jpg",
+    "dateTaken": 1706284800,
+    "dateAdded": 1706284800000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "上海市",
+      "locality": "上海市",
+      "subLocality": "普陀区",
+      "thoroughfare": "真光路",
+      "subThoroughfare": "1339弄41号",
+      "addressDescription": "上海市普陀区长征镇第一食品商店(真光路店)百联中环购物广场"
+    },
+    "extendJson": "{\"type\":\"0\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":0,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": "過康国官 事体植最告 ИГРСL DAMNATION PEPORT UGINAT 李丽 1士用户D4024870940体检号8120240225327 AIEM:10COMEATOADCU 2.专家建议与指导 01频发室性早搏;内科提示心律不齐 1、多见于冠心病、心肌炎、风心病、感染及药物过量等,主要表现为心悸、心慌、胸同等症状。 2、请及时到心内科就诊并积极治疗原发病 02双侧甲状腺结节 是临床常见的病征,恶性病变量不常见,但术前难以繁别。若甲状腺结节为福立结节、突然迅速、无痛 地增大或有甲状腺肿瘤家族史者,建议您及时去医院专科做进一步检查,以便明确诊断, 03幽门螺杆菌抗体阳性 1、提示上消化道已感染或曾经感染过由门螺杆菌。 2、由门螺杆菌感染,是导政胃炎、消化性清疡等疾病的主要病因。《中国南门螺杆菌根除与胃癌防控 的专家共识意见(2019年,上海)》指出,响门螺旋杆菌感染是胃癌发生的环境因素中最重要的因素。 3、患有慢性胃炎、胃、十二指肠清疡者或有胃痛、版胀、反服、暖气等症状时,应到医院消化内科进 -步检查治疗。 04总胆固醇增高 1、建议成烟限酒,低房、低胆园醇饮食,如少吃油腻及煎烤类食物,少吃动物内脏等,多食蔬菜水 乐 2、加强运动,促进脂质代谢。 3、每3-6个月复直一次血脂和轩脏B超,复查前请低脂饮食3天如脂持续增高,请在医生指导下使用 隆脂药物 05乳腺增生 1、与经激素水平有关,一般无明显症状。部分人可出现于月经周期有胀痛感,经前明显,经后减轻。 2、建议及时到医院乳腺专科诊治和随访,根据医院医嘱进一步检查和定期复查。 3、保持心情愉快,善于疏池不良情绪,避免精神过度紧张 4、注意膳食平衡,减少脂肪摄入量,多吃蔬菜与水果。 5、镇用化妆品和含线激素的药物。 下爱DAAPP BEANR Feonn 上海发康国宾名门门资制 全国统一报告加读专线:400-081-8899 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/16/IMG_1715066733_448/1705023032 116.39733191879738,39.971457791669785.jpg",
+    "name": "1709481600 113.37818424425599,22.527455965390523.jpg",
+    "dateTaken": 1709481600,
+    "dateAdded": 1709481600000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "广东省",
+      "locality": "中山市",
+      "subLocality": "石岐街道",
+      "thoroughfare": "柏桠直街",
+      "subThoroughfare": "13号",
+      "addressDescription": "广东省中山市石岐街道中山市人民医院院本部杨志云大楼"
+    },
+    "extendJson": "{\"type\":\"3\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":62,\"timestamp\":\"\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "ocr": "用药指导单 健康教育处方 处方日期:2024年3月3日 年龄:62岁 科室(宋号) 电话: 用药有疑包? 扫码咨询店 姓名:赵堂 就诊卡号: 地址:生命科学与技术学院 临床(初步)诊断: 性别:1 病历号 药品详单及用法用量 (160信必可都保)布地杂德福莫特罗吸入粉雾剂( 每次4.5Ug每日两次 吸入 注意事项: 1.为避免引起眼睛发红或制激移,请不要让药品接单到您的服睛,如 果不小心接触到了,请立即用清水冲洗 2.吸药后请用水漱口,消勿名服缴口水 3.请定期(每星期一次)用干纸巾楼状吸嘴的外部,以保持吸嘴清 法,但请勿用水或液体擦庆吸嘴外部 4.当红色记号\"0\"到达示富中部时,吸入器的给药量将不再准 确,请您丢弃。摇动吸入器听到的声者不是药物产生的,而是干楼 剂 川贝清肺糖浆 100m1+1 每次201每日三次 注意事项:1总烟、酒及辛辣、生冷食物 2.痰湿咳不宜服,其表现为唤嗽痰多,演粘置或制厚流失住 佑,食少服胀,大便稀塘 3.服用三天,症状无改善,应停止服用,并去医院就诊 合理膳食:少盐少油,控糖限酒,少吃高盐和油炸食品、成人每天食盐不翘过6 天烹调油25~30g。控制添加糖的摄入量,每天抓入不超过50g,动好 制在25g以下。 足量饮水:成年人每天7~8杯(1500-1700ml).提倡饮用白开水和茶水:不喝或 少喝含糖饮料 金 2 口服 加强运动:坚持日常身体活动,每用至少进行5天中等强度身体活动,累计150分 钟以上:主动身体活动最好每天6000步、少生来时间,二小时起 一动 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/1/IMG_1715066733_449/121.65405938282537,31.18880930733514 -1 (13).jpg",
+    "name": "1709886632 116.51381494403648,39.773955243847055.jpg",
+    "dateTaken": 1709886632,
+    "dateAdded": 1709886632000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "北京市",
+      "locality": "北京市",
+      "subLocality": "大兴区",
+      "thoroughfare": "西环南路",
+      "subThoroughfare": "2号",
+      "addressDescription": "北京市大兴区荣华街道首都医科大学附属北京同仁医院(南院区)"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"赵菊\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2024-03-15\",\"department\":\"眼底门诊\",\"diagnosis\":\"\"}",
+    "ocr": "15:00 订单详情 待付款 订单超时未支付将会自动取消 14:44 线下门诊 黄瑶 副主任医师眼底门诊(南区) 北京同仁医院 就诊人信息 就诊人 就诊科室 证件号 就诊号码 就诊时间 科室地址 赵菊 眼底门诊(南区) 130***********0429 0023891044 2024-03-1508:30~09:00 暂无 订单详情 医院订单号 创建时间 医事服务费 REG1010400000003695422 2024-03-0815:00:09 ¥80.00 应付 ¥80.00 取消支付 立即支付 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/14/IMG_1715066733_462/1706153432 120.1610681858269,30.25485170181556.jpg",
+    "name": "1711596632 112.97871494846359,28.21560293491003.jpg",
+    "dateTaken": 1711596632,
+    "dateAdded": 1711596632000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "湖南省",
+      "locality": "长沙市",
+      "subLocality": "开福区",
+      "thoroughfare": "湘雅路",
+      "subThoroughfare": "1号",
+      "addressDescription": "湖南省长沙市开福区湘雅路街道中南大学湘雅医院"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"\",\"gender\":\"1\",\"age\":28,\"timestamp\":\"2024-03-27\",\"department\":\"肿瘤科\",\"diagnosis\":\"\"}",
+    "ocr": "中南大学湘雅医院 诊断证明书 性别:1 年龄:28岁 LIL. 门诊号:110032 科室:肿瘤科 A理托腺增生,左侧伴囊肿形成。右乳低回声结节,左乳腺肿瘤(持查) 建议:住院手术治疗,结合临床医学诊治: レ 13054086577  2024 03 万日 科室:肿瘤科 医师:刘海峰 签名 备注:(1)门诊患者盖章请到门诊服务中心门诊大厅),住院盖意通到住院窗口, (2)此证无医院证明书专用章无效。 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/11/IMG_1715066733_475/1711936215 121.36525559856858,31.34073341899907.jpg",
+    "name": "1712979032 120.16120162625003,30.254336792110976.jpg",
+    "dateTaken": 1712979032,
+    "dateAdded": 1712979032000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "浙江省",
+      "locality": "杭州市",
+      "subLocality": "上城区",
+      "thoroughfare": "邮电路",
+      "subThoroughfare": "54号",
+      "addressDescription": "浙江省杭州市上城区湖滨街道浙江省中医院(南2门)浙江省中医院湖滨院区"
+    },
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘平\",\"gender\":\"\",\"age\":0,\"timestamp\":\"04-13 10:00:00\",\"department\":\"鼻科门诊\",\"diagnosis\":\"\"}",
+    "ocr": "我的4 预约成功 已支付 请准时于就诊当天前往医院门诊就诊 4月13日10:00 42号 就诊医院 就诊科室 门诊类型 专病名称 就诊地点 浙江省中医院(湖滨院区) 鼻科普通门诊 普通门诊 17元 鼻科普通门诊 五楼B区 就诊人 就诊卡号 刘平 997056798 "
+  },
+  {
+    "type": "3",
+    "uri": "/storage/cloud/files/Photo/11/IMG_1715066733_491/1711940475 121.36525559856858,31.34073341899907.jpg",
+    "name": "1713411032 106.18577376157876,28.327375519420926.jpg",
+    "dateTaken": 1713411032,
+    "dateAdded": 1713411032000,
+    "dateModified": 0,
+    "location": {
+      "country": "中国",
+      "adminArea": "贵州省",
+      "locality": "遵义市",
+      "subLocality": "习水县",
+      "thoroughfare": "希望路",
+      "subThoroughfare": "2-124号",
+      "addressDescription": "贵州省遵义市习水县杉王街道习水县人民医院医技楼"
+    },
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":63,\"timestamp\":\"\",\"department\":\"皮肤科\",\"diagnosis\":\"疱疹\"}",
+    "ocr": "习水县人民医院 诊断证明书 年龄:63岁 IIOTIiOЛ IJ  姓名:刘平 性别:0 科室:皮肤科 门诊号:604505 诊断:疱疹(水泡) 建议:全休静养十天,药物辅助治疗。 遵医嘱,不适门诊随访。  科室:皮肤科 医师:吕波 签名:W 诊断日期仕院处 备注:(1)门诊患者盖章请到门诊服务中心(门诊大厅),住院患者盖章请到住院处窗口。 "
+  }
+]

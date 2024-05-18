@@ -1,0 +1,226 @@
+/*
+* interface ExtendInfo {
+* uri: string;
+* album: string;
+* }
+* 可以修改ExtendInfo 中album字段分类，ExtendInfo为所有额外信息接口，CatExtendInfo,MedicalReportExtendInfo都继承这个接口 ，参数infoList和extendInfoList长度一样
+* @param infoList classify info list.
+* @param extendInfoList extend info list
+* @return boolean whether classify success
+*/
+async classify(infoList: Array<ClassifyInfo>, extendInfoList: Array<ExtendInfo>): Promise<boolean> {
+
+}
+
+export default class ClassifyInfo {
+  type: string;
+  uri: string;
+  dateTaken: number;
+  dateAdded: number;
+  location: Location;
+  extendJson: string;
+
+  public setType(type: string): ClassifyInfo {
+    this.type = type;
+    return this;
+  }
+
+  public setUri(uri: string): ClassifyInfo {
+    this.uri = uri;
+    return this;
+  }
+
+  public setDateTaken(dateTaken: number): ClassifyInfo {
+    this.dateTaken = dateTaken;
+    return this;
+  }
+
+  public setDateAdded(dateAdded: number): ClassifyInfo {
+    this.dateAdded = dateAdded;
+    return this;
+  }
+
+  public setLocation(location: Location): ClassifyInfo {
+    this.location = location;
+    return this;
+  }
+
+  public setExtendJson(extendJson: string): ClassifyInfo {
+    this.extendJson = extendJson;
+    return this;
+  }
+
+  public getType(): string {
+    return this.type;
+  }
+
+  public getUri(): string {
+    return this.uri;
+  }
+
+  public getDateTaken(): number {
+    return this.dateTaken;
+  }
+
+  public getDateAdded(): number {
+    return this.dateAdded;
+  }
+
+  public getLocation(): Location {
+    return this.location;
+  }
+
+  public getExtendJson(): string {
+    return this.extendJson;
+  }
+}
+
+
+export default class CatExtendInfo implements ExtendInfo {
+  color: string;
+  pose: string;
+  isGroupPhoto: boolean;
+  uri: string;
+  album: string;
+
+  public setUri(value: string) : CatExtendInfo{
+    this.uri = value;
+    return this;
+  }
+
+  public setAlbum(value: string) :CatExtendInfo{
+    this.album = value;
+    return this;
+  }
+
+  public setColor(color: string): CatExtendInfo {
+    this.color = color;
+    return this;
+  }
+
+  public setPose(pose: string): CatExtendInfo {
+    this.pose = pose;
+    return this;
+  }
+
+  public setIsGroupPhoto(isGroupPhoto: boolean): CatExtendInfo {
+    this.isGroupPhoto = isGroupPhoto;
+    return this;
+  }
+
+  public getColor(): string {
+    return this.color;
+  }
+
+  public getPose(): string {
+    return this.pose;
+  }
+
+  public getIsGroupPhoto(): boolean {
+    return this.isGroupPhoto;
+  }
+
+  public getAlbum(): string {
+    return this.album;;
+  }
+
+  public getUri(): string {
+    return this.uri;
+  }
+}
+
+
+
+export default class MedicalReportExtendInfo implements ExtendInfo{
+  type: string;
+  name: string;
+  sex: string;
+  age: number;
+  timestamp: number;
+  department: string;
+  diagnosis: string;
+   uri: string;
+   album: string;
+
+  public setUri(value: string): MedicalReportExtendInfo {
+    this.uri = value;
+    return this;
+  }
+
+  public setAlbum(value: string) : MedicalReportExtendInfo{
+    this.album = value;
+    return this;
+  }
+
+  public setType(type: string): MedicalReportExtendInfo {
+    this.type = type;
+    return this;
+  }
+
+  public setName(name: string): MedicalReportExtendInfo {
+    this.name = name;
+    return this;
+  }
+
+  public setSex(sex: string): MedicalReportExtendInfo {
+    this.sex = sex;
+    return this;
+  }
+
+  public setAge(age: number): MedicalReportExtendInfo {
+    this.age = age;
+    return this;
+  }
+
+  public setTimestamp(timestamp: number): MedicalReportExtendInfo {
+    this.timestamp = timestamp;
+    return this;
+  }
+
+  public setDepartment(department: string): MedicalReportExtendInfo {
+    this.department = department;
+    return this;
+  }
+
+  public setDiagnosis(diagnosis: string): MedicalReportExtendInfo {
+    this.diagnosis = diagnosis;
+    return this;
+  }
+
+  public getType(): string {
+    return this.type;
+  }
+
+  public getName(): string {
+    return this.name;
+  }
+
+  public getSex(): string {
+    return this.sex;
+  }
+
+  public getAge(): number {
+    return this.age;
+  }
+
+  public getTimestamp(): number {
+    return this.timestamp;
+  }
+
+  public getDepartment(): string {
+    return this.department;
+  }
+
+  public getDiagnosis(): string {
+    return this.diagnosis;
+  }
+
+  public getAlbum(): string {
+    return this.album;;
+  }
+
+  public getUri(): string {
+    return this.uri;
+  }
+}
+
