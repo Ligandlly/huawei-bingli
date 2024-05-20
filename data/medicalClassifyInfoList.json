@@ -34,7 +34,7 @@
       "subThoroughfare": "238号",
       "addressDescription": "天津市北辰区北仓镇娃哈哈(第二儿童医院急诊一层店)天津市第二儿童医院"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":3,\"timestamp\":\"2024/04/09 13:00:38\",\"department\":\"门诊科\",\"diagnosis\":\"过敏性鼻炎\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":3,\"timestamp\":\"2024-04-09 13:00:38\",\"department\":\"门诊科\",\"diagnosis\":\"过敏性鼻炎\"}",
     "ocr": " "
   },
   {
@@ -72,7 +72,7 @@
       "subThoroughfare": "",
       "addressDescription": "上海市黄浦区瑞金二路街道瑞金医院院史陈列馆上海交通大学医学院附属瑞金医院"
     },
-    "extendJson": "{\"type\":\"0\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":28,\"timestamp\":\"2024/03/11 12:48:34\",\"department\":\"急诊科\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"0\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":28,\"timestamp\":\"2024-03-11 12:48:34\",\"department\":\"急诊科\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -110,7 +110,7 @@
       "subThoroughfare": "205号",
       "addressDescription": "浙江省杭州市上城区湖滨街道浙江省中医院湖滨院区住院部"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":28,\"timestamp\":\"2024/01/25 11:01:14\",\"department\":\"耳鼻喉科\",\"diagnosis\":\"咽喉壁淋巴滤泡增生\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":28,\"timestamp\":\"2024-01-25 11:01:14\",\"department\":\"耳鼻喉科\",\"diagnosis\":\"咽喉壁淋巴滤泡增生\"}",
     "ocr": " "
   },
   {
@@ -129,7 +129,7 @@
       "subThoroughfare": "1367号",
       "addressDescription": "浙江省杭州市余杭区仓前街道浙大一院总部浙江大学医学院附属第一医院"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":62,\"timestamp\":\"2024/01/20 08:16:00\",\"department\":\"甲状腺外科\",\"diagnosis\":\"甲状腺乳头状癌体淋巴结转移性癌\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":62,\"timestamp\":\"2024-01-20 08:16:00\",\"department\":\"甲状腺外科\",\"diagnosis\":\"甲状腺乳头状癌体淋巴结转移性癌\"}",
     "ocr": " "
   },
   {
@@ -148,7 +148,7 @@
       "subThoroughfare": "12号",
       "addressDescription": "上海市静安区静安寺街道上海华山医院预约咨询中心复旦大学附属华山医院"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":63,\"timestamp\":\"2024/01/07 17:52:58\",\"department\":\"西院骨科\",\"diagnosis\":\"腰椎间盘突出\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":63,\"timestamp\":\"2024-01-07 17:52:58\",\"department\":\"西院骨科\",\"diagnosis\":\"腰椎间盘突出\"}",
     "ocr": " "
   },
   {
@@ -167,7 +167,7 @@
       "subThoroughfare": "25-26号",
       "addressDescription": "重庆市南岸区涂山镇国际社区汇金街东宸造型(中海地产国际商务大厦店)"
     },
-    "extendJson": "{\"type\":\"3\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":28,\"timestamp\":\"2024/01/03 00:00:00\",\"department\":\"内科\",\"diagnosis\":\"急性上呼吸道感染\"}",
+    "extendJson": "{\"type\":\"3\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":28,\"timestamp\":\"2024-01-03 00:00:00\",\"department\":\"内科\",\"diagnosis\":\"急性上呼吸道感染\"}",
     "ocr": " "
   },
   {
@@ -186,7 +186,7 @@
       "subThoroughfare": "64号",
       "addressDescription": "浙江省嘉兴市桐乡市梧桐街道茅盾东路桐乡市梧桐街道社区卫生服务中心预防保健部"
     },
-    "extendJson": "{\"type\":\"1\",\"name\":\"刘平\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023/11/23 00:00:00\",\"department\":\"\",\"diagnosis\":\"超重,甲状腺胶质肿囊,心律不齐\"}",
+    "extendJson": "{\"type\":\"1\",\"name\":\"刘平\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023-11-23 00:00:00\",\"department\":\"\",\"diagnosis\":\"超重,甲状腺胶质肿囊,心律不齐\"}",
     "ocr": " "
   },
   {
@@ -224,7 +224,7 @@
       "subThoroughfare": "1号",
       "addressDescription": "北京市朝阳区朝外街道首都儿科研究所附属儿童医院住院楼"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":3,\"timestamp\":\"2023/10/11 16:20:00\",\"department\":\"内科\",\"diagnosis\":\"咳嗽变异型哮喘,呼吸道感染,细菌感染\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":3,\"timestamp\":\"2023-10-11 16:20:00\",\"department\":\"内科\",\"diagnosis\":\"咳嗽变异型哮喘,呼吸道感染,细菌感染\"}",
     "ocr": " "
   },
   {
@@ -262,7 +262,7 @@
       "subThoroughfare": "1号",
       "addressDescription": "江西省赣州市章贡区黄金岭街道赣州市妇幼保健院新院(赣康路院区)"
     },
-    "extendJson": "{\"type\":\"0\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2023/07/13 12:17:58\",\"department\":\"儿童保健门诊\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2023-07-13 12:17:58\",\"department\":\"儿童保健门诊\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -300,7 +300,7 @@
       "subThoroughfare": "4号",
       "addressDescription": "广东省广州市越秀区农林街道中山大学附属第一医院"
     },
-    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023/07/28 08:43:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023-07-28 08:43:00\",\"department\":\"\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -319,7 +319,7 @@
       "subThoroughfare": "4号",
       "addressDescription": "广东省广州市越秀区农林街道中山大学附属第一医院"
     },
-    "extendJson": "{\"type\":\"4\",\"name\":\"刘平\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023/07/28 08:37:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘平\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023-07-28 08:37:00\",\"department\":\"\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -395,7 +395,7 @@
       "subThoroughfare": "22号",
       "addressDescription": "福建省福州市台江区上海街道福建医科大学附属第一医院茶亭院区员工食堂"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"2023/06/26 14:35:17\",\"department\":\"眼科\",\"diagnosis\":\"急性结膜炎\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"2023-06-26 14:35:17\",\"department\":\"眼科\",\"diagnosis\":\"急性结膜炎\"}",
     "ocr": " "
   },
   {
@@ -433,7 +433,7 @@
       "subThoroughfare": "13号",
       "addressDescription": "北京市西城区什刹海街道文津街13号"
     },
-    "extendJson": "{\"type\":\"4\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023/05/20 00:00:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"4\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023-05-20 00:00:00\",\"department\":\"\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -452,7 +452,7 @@
       "subThoroughfare": "6-28号",
       "addressDescription": "辽宁省沈阳市浑南区五三街道天坛南街国家电投"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"2023/05/12 00:00:00\",\"department\":\"骨科脊柱门诊\",\"diagnosis\":\"左侧第7肋骨折,右肾结石或钙化灶\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"2023-05-12 00:00:00\",\"department\":\"骨科脊柱门诊\",\"diagnosis\":\"左侧第7肋骨折,右肾结石或钙化灶\"}",
     "ocr": " "
   },
   {
@@ -490,7 +490,7 @@
       "subThoroughfare": "7019号",
       "addressDescription": "广东省深圳市福田区莲花街道儿童医院营养餐厅深圳市儿童医院"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"0\",\"age\":4,\"timestamp\":\"2023/04/19 14:33:00\",\"department\":\"科室耳鼻咽喉头颈外科\",\"diagnosis\":\"鼻炎,咽炎\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"0\",\"age\":4,\"timestamp\":\"2023-04-19 14:33:00\",\"department\":\"科室耳鼻咽喉头颈外科\",\"diagnosis\":\"鼻炎,咽炎\"}",
     "ocr": " "
   },
   {
@@ -509,7 +509,7 @@
       "subThoroughfare": "1039号",
       "addressDescription": "上海市静安区芷江西路街道中兴路1039号"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2023/04/03 14:36:00\",\"department\":\"\",\"diagnosis\":\"喉炎,上呼吸道感染\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2023-04-03 14:36:00\",\"department\":\"\",\"diagnosis\":\"喉炎,上呼吸道感染\"}",
     "ocr": " "
   },
   {
@@ -547,7 +547,7 @@
       "subThoroughfare": "140号",
       "addressDescription": "广东省广州市番禺区钟村街道番禺区第五人民医院急诊科"
     },
-    "extendJson": "{\"type\":\"0\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":61,\"timestamp\":\"2023/02/27 21:29:38\",\"department\":\"急诊外科\",\"diagnosis\":\"胸8椎体压缩性骨折\"}",
+    "extendJson": "{\"type\":\"0\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":61,\"timestamp\":\"2023-02-27 21:29:38\",\"department\":\"急诊外科\",\"diagnosis\":\"胸8椎体压缩性骨折\"}",
     "ocr": " "
   },
   {
@@ -566,7 +566,7 @@
       "subThoroughfare": "183号",
       "addressDescription": "湖北省武汉市江岸区西马街道武汉市妇女儿童医疗保健中心武汉市儿童医院"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2023/02/26 15:17:00\",\"department\":\"耳鼻咽喉科\",\"diagnosis\":\"鼻炎,鼻出血\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2023-02-26 15:17:00\",\"department\":\"耳鼻咽喉科\",\"diagnosis\":\"鼻炎,鼻出血\"}",
     "ocr": " "
   },
   {
@@ -585,7 +585,7 @@
       "subThoroughfare": "198号",
       "addressDescription": "浙江省湖州市长兴县雉城街道长兴县中医院"
     },
-    "extendJson": "{\"type\":\"1\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023/02/02 00:00:00\",\"department\":\"\",\"diagnosis\":\"窦性心动过速,总胆红素偏高\"}",
+    "extendJson": "{\"type\":\"1\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2023-02-02 00:00:00\",\"department\":\"\",\"diagnosis\":\"窦性心动过速,总胆红素偏高\"}",
     "ocr": " "
   },
   {
@@ -623,7 +623,7 @@
       "subThoroughfare": "117号",
       "addressDescription": "四川省成都市金牛区抚琴街道中铁二局集团中心医院停车场"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":58,\"timestamp\":\"2020/11/16 09:43:45\",\"department\":\"外科\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":58,\"timestamp\":\"2020-11-16 09:43:45\",\"department\":\"外科\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -642,7 +642,7 @@
       "subThoroughfare": "1号",
       "addressDescription": "广东省广州市番禺区小谷围街道广东省中医院(大学城医院)"
     },
-    "extendJson": "{\"type\":\"3\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":61,\"timestamp\":\"2022/09/28 00:00:00\",\"department\":\"\",\"diagnosis\":\"睡眠不好，易疲劳\"}",
+    "extendJson": "{\"type\":\"3\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":61,\"timestamp\":\"2022-09-28 00:00:00\",\"department\":\"\",\"diagnosis\":\"睡眠不好，易疲劳\"}",
     "ocr": " "
   },
   {
@@ -680,7 +680,7 @@
       "subThoroughfare": "21号",
       "addressDescription": "北京市海淀区花园路街道北京大学第三医院(院本部)"
     },
-    "extendJson": "{\"type\":\"4\",\"name\":\"刘强\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2022/09/09 09:51:57\",\"department\":\"外科\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘强\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2022-09-09 09:51:57\",\"department\":\"外科\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -699,7 +699,7 @@
       "subThoroughfare": "21号",
       "addressDescription": "北京市海淀区花园路街道北京大学第三医院(院本部)"
     },
-    "extendJson": "{\"type\":\"4\",\"name\":\"刘强\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2022/09/09 10:06:15\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘强\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2022-09-09 10:06:15\",\"department\":\"\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -718,7 +718,7 @@
       "subThoroughfare": "353号",
       "addressDescription": "江苏省南京市秦淮区朝天宫街道南京市妇幼保健院"
     },
-    "extendJson": "{\"type\":\"1\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2022/08/16 00:00:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"1\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":2,\"timestamp\":\"2022-08-16 00:00:00\",\"department\":\"\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -737,7 +737,7 @@
       "subThoroughfare": "5",
       "addressDescription": "广东省广州市白云区三元里街道广州中医药大学第一附属医院-名医墙广州中医药大学第一附属医院8"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":62,\"timestamp\":\"2022/07/08 12:20:00\",\"department\":\"耳鼻喉科\",\"diagnosis\":\"咽炎,咳嗽\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":62,\"timestamp\":\"2022-07-08 12:20:00\",\"department\":\"耳鼻喉科\",\"diagnosis\":\"咽炎,咳嗽\"}",
     "ocr": " "
   },
   {
@@ -756,7 +756,7 @@
       "subThoroughfare": "51-6号",
       "addressDescription": "四川省成都市武侯区火车南站街道四川省中西医结合医院"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":60,\"timestamp\":\"2022/06/12 14:33:19\",\"department\":\"\",\"diagnosis\":\"腰4-5椎间盘膨出,腰椎及椎小关节退行性变,腰背部筋膜炎\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":60,\"timestamp\":\"2022-06-12 14:33:19\",\"department\":\"\",\"diagnosis\":\"腰4-5椎间盘膨出,腰椎及椎小关节退行性变,腰背部筋膜炎\"}",
     "ocr": " "
   },
   {
@@ -775,7 +775,7 @@
       "subThoroughfare": "5",
       "addressDescription": "广东省广州市白云区三元里街道广州中医药大学第一附属医院-名医墙广州中医药大学第一附属医院8"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":62,\"timestamp\":\"2022/06/07 14:41:00\",\"department\":\"耳鼻喉科\",\"diagnosis\":\"咽炎,咳嗽\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":62,\"timestamp\":\"2022-06-07 14:41:00\",\"department\":\"耳鼻喉科\",\"diagnosis\":\"咽炎,咳嗽\"}",
     "ocr": " "
   },
   {
@@ -794,7 +794,7 @@
       "subThoroughfare": "1号",
       "addressDescription": "广东省深圳市福田区沙头街道香港大学深圳医院-健康资讯中心"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"2022/05/25 15:32:00\",\"department\":\"皮肤科\",\"diagnosis\":\"痤疮\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"2022-05-25 15:32:00\",\"department\":\"皮肤科\",\"diagnosis\":\"痤疮\"}",
     "ocr": " "
   },
   {
@@ -813,7 +813,7 @@
       "subThoroughfare": "1号",
       "addressDescription": "广东省深圳市福田区沙头街道香港大学深圳医院-健康资讯中心"
     },
-    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"2022/05/25 15:05:31\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"2022-05-25 15:05:31\",\"department\":\"\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -832,7 +832,7 @@
       "subThoroughfare": "1号",
       "addressDescription": "广东省深圳市福田区沙头街道香港大学深圳医院-健康资讯中心"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"2022/05/25 15:32:30\",\"department\":\"皮肤科\",\"diagnosis\":\"痤疮\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":30,\"timestamp\":\"2022-05-25 15:32:30\",\"department\":\"皮肤科\",\"diagnosis\":\"痤疮\"}",
     "ocr": " "
   },
   {
@@ -870,7 +870,7 @@
       "subThoroughfare": "7019号",
       "addressDescription": "广东省深圳市福田区莲花街道儿童医院营养餐厅深圳市儿童医院"
     },
-    "extendJson": "{\"type\":\"0\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":1,\"timestamp\":\"2022/04/08 16:28:36\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":1,\"timestamp\":\"2022-04-08 16:28:36\",\"department\":\"\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -889,7 +889,7 @@
       "subThoroughfare": "6号",
       "addressDescription": "重庆市渝北区人和街道土星商务中心C2座"
     },
-    "extendJson": "{\"type\":\"1\",\"name\":\"\",\"gender\":\"\",\"age\":1,\"timestamp\":\"2022/02/24 14:33:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"1\",\"name\":\"\",\"gender\":\"\",\"age\":1,\"timestamp\":\"2022-02-24 14:33:00\",\"department\":\"\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -908,7 +908,7 @@
       "subThoroughfare": "215-17号",
       "addressDescription": "江苏省南京市鼓楼区华侨路街道江苏省人民医院肝脏外科研究所江苏省人民医院(本部)"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":1,\"timestamp\":\"2021/12/25 09:05:00\",\"department\":\"\",\"diagnosis\":\"发热\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":1,\"timestamp\":\"2021-12-25 09:05:00\",\"department\":\"\",\"diagnosis\":\"发热\"}",
     "ocr": " "
   },
   {
@@ -946,7 +946,7 @@
       "subThoroughfare": "32号",
       "addressDescription": "重庆市渝中区两路口街道刘小琴民宿(中山二路分店)重庆医科大学附属儿童医院渝中院区"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":1,\"timestamp\":\"2021/03/13 17:19:00\",\"department\":\"急诊外科\",\"diagnosis\":\"II度烫伤\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘圆圆\",\"gender\":\"1\",\"age\":1,\"timestamp\":\"2021-03-13 17:19:00\",\"department\":\"急诊外科\",\"diagnosis\":\"II度烫伤\"}",
     "ocr": " "
   },
   {
@@ -965,7 +965,7 @@
       "subThoroughfare": "17号",
       "addressDescription": "浙江省绍兴市诸暨市陶朱街道浙江省诸暨市人民医院住院部"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":28,\"timestamp\":\"2021/02/05 23:20:00\",\"department\":\"\",\"diagnosis\":\"脑震荡\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":28,\"timestamp\":\"2021-02-05 23:20:00\",\"department\":\"\",\"diagnosis\":\"脑震荡\"}",
     "ocr": " "
   },
   {
@@ -984,7 +984,7 @@
       "subThoroughfare": "1838号",
       "addressDescription": "广东省广州市白云区京溪街道南方医科大学南方医院(院本部)消化楼"
     },
-    "extendJson": "{\"type\":\"3\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2021/11/17 17:15:30\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"3\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2021-11-17 17:15:30\",\"department\":\"\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -1003,7 +1003,7 @@
       "subThoroughfare": "1838号",
       "addressDescription": "广东省广州市白云区京溪街道南方医科大学南方医院(院本部)消化楼"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":26,\"timestamp\":\"2021/11/17 17:08:14\",\"department\":\"消化内科门诊\",\"diagnosis\":\"幽门螺旋杆菌感染\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":26,\"timestamp\":\"2021-11-17 17:08:14\",\"department\":\"消化内科门诊\",\"diagnosis\":\"幽门螺旋杆菌感染\"}",
     "ocr": " "
   },
   {
@@ -1041,7 +1041,7 @@
       "subThoroughfare": "3号",
       "addressDescription": "湖南省长沙市天心区裕南街街道长沙市第三医院"
     },
-    "extendJson": "{\"type\":\"3\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":25,\"timestamp\":\"2020/11/26 00:00:00\",\"department\":\"\",\"diagnosis\":\"面部发黄暗沉，黑眼圈重，起雀斑\"}",
+    "extendJson": "{\"type\":\"3\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":25,\"timestamp\":\"2020-11-26 00:00:00\",\"department\":\"\",\"diagnosis\":\"面部发黄暗沉，黑眼圈重，起雀斑\"}",
     "ocr": " "
   },
   {
@@ -1060,7 +1060,7 @@
       "subThoroughfare": "31号",
       "addressDescription": "天津市和平区南营门街道天津市脑血管病防治研究办公室天津医科大学总医院"
     },
-    "extendJson": "{\"type\":\"0\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":58,\"timestamp\":\"2020/10/02 00:00:00\",\"department\":\"\",\"diagnosis\":\"脑白质稀疏,脑萎缩\"}",
+    "extendJson": "{\"type\":\"0\",\"name\":\"赵菊\",\"gender\":\"1\",\"age\":58,\"timestamp\":\"2020-10-02 00:00:00\",\"department\":\"\",\"diagnosis\":\"脑白质稀疏,脑萎缩\"}",
     "ocr": " "
   },
   {
@@ -1098,7 +1098,7 @@
       "subThoroughfare": "42号",
       "addressDescription": "安徽省安庆市迎江区宜城路街道安庆市第一人民医院孝肃路院区门诊大楼安庆市第一人民医院(孝肃路院区)"
     },
-    "extendJson": "{\"type\":\"0\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":60,\"timestamp\":\"2020/08/11 00:00:00\",\"department\":\"口腔科\",\"diagnosis\":\"浸润性鳞状细胞癌\"}",
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":60,\"timestamp\":\"2020-08-11 00:00:00\",\"department\":\"口腔科\",\"diagnosis\":\"浸润性鳞状细胞癌\"}",
     "ocr": " "
   },
   {
@@ -1136,7 +1136,7 @@
       "subThoroughfare": "66号",
       "addressDescription": "新疆维吾尔自治区和田地区洛浦县城区街道洛浦县50号便民警务站洛浦县人民医院"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":27,\"timestamp\":\"2020/06/16 11:50:00\",\"department\":\"\",\"diagnosis\":\"肌肉损伤\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":27,\"timestamp\":\"2020-06-16 11:50:00\",\"department\":\"\",\"diagnosis\":\"肌肉损伤\"}",
     "ocr": " "
   },
   {
@@ -1155,7 +1155,7 @@
       "subThoroughfare": "169号",
       "addressDescription": "海南省海口市琼山区甲子镇美茶路海口市琼山区甲子镇卫生院"
     },
-    "extendJson": "{\"type\":\"3\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":24,\"timestamp\":\"2020/05/26 00:00:00\",\"department\":\"内儿科\",\"diagnosis\":\"急性咽喉炎\"}",
+    "extendJson": "{\"type\":\"3\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":24,\"timestamp\":\"2020-05-26 00:00:00\",\"department\":\"内儿科\",\"diagnosis\":\"急性咽喉炎\"}",
     "ocr": " "
   },
   {
@@ -1174,7 +1174,7 @@
       "subThoroughfare": "37号",
       "addressDescription": "四川省成都市武侯区玉林街道华西牛奶四川大学华西医院"
     },
-    "extendJson": "{\"type\":\"0\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":24,\"timestamp\":\"2020/01/13 18:55:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"0\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":24,\"timestamp\":\"2020-01-13 18:55:00\",\"department\":\"\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -1193,7 +1193,7 @@
       "subThoroughfare": "182号",
       "addressDescription": "江西省上饶市信州区东市街道上饶市立医院"
     },
-    "extendJson": "{\"type\":\"0\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":26,\"timestamp\":\"2019/04/14 09:00:00\",\"department\":\"门诊\",\"diagnosis\":\"窦性心律异位,偶发性房性早搏,偶发性室性早搏\"}",
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":26,\"timestamp\":\"2019-04-14 09:00:00\",\"department\":\"门诊\",\"diagnosis\":\"窦性心律异位,偶发性房性早搏,偶发性室性早搏\"}",
     "ocr": " "
   },
   {
@@ -1212,7 +1212,7 @@
       "subThoroughfare": "2号",
       "addressDescription": "海南省海口市美兰区海甸街道海南国爱近视治疗中心"
     },
-    "extendJson": "{\"type\":\"3\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":22,\"timestamp\":\"2018/09/10 00:00:00\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"3\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":22,\"timestamp\":\"2018-09-10 00:00:00\",\"department\":\"\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -1231,7 +1231,7 @@
       "subThoroughfare": "323号",
       "addressDescription": "广东省广州市海珠区南石头街道南方医科大学珠江医院医学验光配镜中心"
     },
-    "extendJson": "{\"type\":\"2\",\"name\":\"\",\"gender\":\"0\",\"age\":0,\"timestamp\":\"2018/08/18 18:01:54\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"2\",\"name\":\"\",\"gender\":\"0\",\"age\":0,\"timestamp\":\"2018-08-18 18:01:54\",\"department\":\"\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -1250,7 +1250,7 @@
       "subThoroughfare": "2-4号",
       "addressDescription": "陕西省西安市莲湖区北院门街道陕西省中医医院"
     },
-    "extendJson": "{\"type\":\"4\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":22,\"timestamp\":\"2018/07/14 00:00:00\",\"department\":\"门诊\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"4\",\"name\":\"李丽\",\"gender\":\"1\",\"age\":22,\"timestamp\":\"2018-07-14 00:00:00\",\"department\":\"门诊\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -1269,7 +1269,7 @@
       "subThoroughfare": "105-36号",
       "addressDescription": "重庆市沙坪坝区新桥街道西南医院-外科楼陆军军医大学西南医院"
     },
-    "extendJson": "{\"type\":\"0\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":57,\"timestamp\":\"2018/06/04 00:00:00\",\"department\":\"耳鼻喉科\",\"diagnosis\":\"鼻骨骨折，鼻中隔偏曲\"}",
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":57,\"timestamp\":\"2018-06-04 00:00:00\",\"department\":\"耳鼻喉科\",\"diagnosis\":\"鼻骨骨折，鼻中隔偏曲\"}",
     "ocr": " "
   },
   {
@@ -1288,7 +1288,7 @@
       "subThoroughfare": "31号",
       "addressDescription": "江西省上饶市信州区西市街道铁路医院江西医专第一附属医院"
     },
-    "extendJson": "{\"type\":\"0\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":58,\"timestamp\":\"2018/03/31 11:55:52\",\"department\":\"内一科\",\"diagnosis\":\"慢性支气炎伴两肺气肿\"}",
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":58,\"timestamp\":\"2018-03-31 11:55:52\",\"department\":\"内一科\",\"diagnosis\":\"慢性支气炎伴两肺气肿\"}",
     "ocr": " "
   },
   {
@@ -1307,7 +1307,7 @@
       "subThoroughfare": "98号",
       "addressDescription": "贵州省遵义市汇川区洗马路街道遵义市第一人民医院综合住院大楼"
     },
-    "extendJson": "{\"type\":\"0\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":57,\"timestamp\":\"2017/10/11 01:02:40\",\"department\":\"神经重症医学科\",\"diagnosis\":\"脑干出血,双肺感染，双侧少量胸腔积液\"}",
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘平\",\"gender\":\"0\",\"age\":57,\"timestamp\":\"2017-10-11 01:02:40\",\"department\":\"神经重症医学科\",\"diagnosis\":\"脑干出血,双肺感染，双侧少量胸腔积液\"}",
     "ocr": " "
   },
   {
@@ -1326,7 +1326,7 @@
       "subThoroughfare": "52-1号",
       "addressDescription": "北京市海淀区八里庄街道北京大学肿瘤医院三号厅立体停车场"
     },
-    "extendJson": "{\"type\":\"4\",\"name\":\"李丽\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2017/04/08 00:09:00\",\"department\":\"胸外二科门诊\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"4\",\"name\":\"李丽\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2017-04-08 00:09:00\",\"department\":\"胸外二科门诊\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -1345,7 +1345,7 @@
       "subThoroughfare": "10号",
       "addressDescription": "北京市海淀区羊坊店街道首都医科大学附属北京世纪坛医院儿科急诊"
     },
-    "extendJson": "{\"type\":\"4\",\"name\":\"刘强\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2017/04/08 00:02:00\",\"department\":\"急诊科\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘强\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2017-04-08 00:02:00\",\"department\":\"急诊科\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -1364,7 +1364,7 @@
       "subThoroughfare": "4号",
       "addressDescription": "广东省广州市越秀区农林街道中山大学附属第一医院"
     },
-    "extendJson": "{\"type\":\"4\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":23,\"timestamp\":\"2015/08/11 00:00:00\",\"department\":\"耳鼻喉科\",\"diagnosis\":\"慢性鼻窦炎\"}",
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘强\",\"gender\":\"0\",\"age\":23,\"timestamp\":\"2015-08-11 00:00:00\",\"department\":\"耳鼻喉科\",\"diagnosis\":\"慢性鼻窦炎\"}",
     "ocr": " "
   },
   {
@@ -1383,7 +1383,7 @@
       "subThoroughfare": "",
       "addressDescription": "北京市海淀区万寿路街道中国人民解放军总医院国际会议中心"
     },
-    "extendJson": "{\"type\":\"4\",\"name\":\"刘平\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2014/09/29 08:36:14\",\"department\":\"\",\"diagnosis\":\"\"}",
+    "extendJson": "{\"type\":\"4\",\"name\":\"刘平\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2014-09-29 08:36:14\",\"department\":\"\",\"diagnosis\":\"\"}",
     "ocr": " "
   },
   {
@@ -1611,7 +1611,7 @@
       "subThoroughfare": "16号",
       "addressDescription": "山东省烟台市芝罘区毓璜顶街道烟台毓璜顶医院总院急救中心"
     },
-    "extendJson": "{\"type\":\"0\",\"name\":\"\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2020-11-05\",\"department\":\"\",\"diagnosis\":\"前列腺体积增大并钙化\"}",
+    "extendJson": "{\"type\":\"0\",\"name\":\"刘平\",\"gender\":\"\",\"age\":0,\"timestamp\":\"2020-11-05 00:00:00\",\"department\":\"\",\"diagnosis\":\"前列腺体积增大并钙化\"}",
     "ocr": "烟台毓璜顶医院体检中心 检验境目 单位 提示 检验结果 同性 明性(一 明性(一 明性- 明性(-) 阿性(一) 7.5 1.010 潮性( 副性(-) 参考范围 副性(-) 阴性(-) 阴性(一) 明性(-) 副性(-) 阴性(-一) . Б-В. О 1(M3-L 030 图性(-) 副性(-) 白细胞(LEID 隐血(BLD) 承蛋白(PRO) 电(GL 国红素(B11 民租康(B 酸城度GD 床比重(SG) 花销酸盐(NI 国体KE 小结:  未见明星异常 肝功缩项 总胆红素(TBIL) 直接甲红素(DBIL 创楼租红素(IBIL 诚性磷能酷(ALP 一容氟航基转移酶(CGT 丙酸氨基转移酷(ALT) 天门冬氮酸复基转移酶(AST ASTIMT(AST:ALT) 小站 管功缩项 检查日期:2020-11-05 检验结果 单 11.1 o1/ 2.0 1mo1/L 91 u mol L Б8 /L 17 U/1 1 LA 21 tL 1.62 位验师:韩颗杰 参考花围 3.2-23.5 I0.0-в,8 3.0-19.0 45-125 10-60 9-50 15-40 枪验项目 提示 未见明显异常。 枪查日期:2020-11-05 检验结果 单位 5.14 mmo1/Л 5.99 mmol/れ 63 μnol /れ 0.10 309 检验师:节颖杰 誉考范围 3.80-6.20 3,60-9.50 57-111 检验项目 提示 宝泵动(GLLD 素(UREA) 机(CREA) 尿素:肌肝(UREA:CREA) 际酸(A) 小结: 血脂缩项 mol/れ 208-4PB 未见明显异常。 检查日期:2020-11-05 检验结果 单位 0.60 mo1/L 4.76 mmol/L 1.56 gupol/L 2.51 mol/ 检验师:韩颖杰 零考范园 0.40-1.70 3.12-5.72 1.04-1.96 1.53-3, 45 检验项日 提示 排油三酷(TG) 总职同静(CHOL) 高密度脂蛋白胆发意CHDL-C 低密度糖蛋白胆固醇(LDL-C) 小结: 未见明显异常, 体检中心B超室 肝胆胰牌肾(团体) 项目名称 开胆胰牌督 小结肝、胆、庆、脾、肾未见明显异常。 检查日期:2020-11-05 检查医师:张延延 检查结果 肚、胆、胰、胖、肾未见明显异常。 膀肤前列腺B超(不带图 项目名 情庆、前列腺 枪查日期:2020-11-05 检查医师:张延延 查结果 前列腺体积增大井钙化,大小约4.6*3.1*3.1cm. 第3/6页 刘平 TJ000836114 "
   },
   {
