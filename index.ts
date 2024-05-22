@@ -84,10 +84,7 @@ async function classify(
   const closeInTimeMap = closeInTime(infoList, rows, idMap, idAddressMap);
 
   for (let [k, v] of closeInTimeMap) {
-    let album = reversedIdMap.get(v);
-    if (!album) {
-      continue;
-    }
+    let album = v;
     rows[k].album = album;
   }
 
@@ -434,7 +431,7 @@ function jaccardSimilarity(str1: string, str2: string): number {
   const unionSize = union.size;
 
   if (unionSize === 0) {
-    return 1; // 如果两个字符串都是空字符串,则相似度为1
+    return 0; // 如果两个字符串都是空字符串,则相似度为0
   }
 
   return intersectionSize / unionSize;
@@ -480,7 +477,7 @@ function addressThreshold(sim: number, hasTimeStamp: boolean): boolean {
 }
 
 function timeThreshold(sim: number): boolean {
-  return sim <= oneMonthInMilliseconds;
+  return sim <= oneMonthInMilliseconds && sim >= 60;
 }
 
 function diagnpsisThreshold(sim: number): boolean {
@@ -517,6 +514,7 @@ function undefinedName(
 
     // let idMapSize = idMap.size;
     let possibleId = [];
+
     for (let [k, id] of idMap) {
       let addressTree = idAddressMap.get(id)!;
       let maxAddressSim = searchAddress(
@@ -552,11 +550,16 @@ function undefinedName(
         (addressThreshold(maxAddressSim, hasTimeStamp) &&
           timeThreshold(maxTimeSim))
       ) {
-        rlt.set(i, id);
+        // rlt.set(i, id);
         // console.log(i.toString() + " " + id);
-        break;
+        // break;
+        possibleId.push(id);
       }
     }
+    if (possibleId.length > 1 || possibleId.length === 0) {
+      continue;
+    }
+    rlt.set(i, possibleId[0]);
   }
 
   return rlt;
@@ -579,29 +582,26 @@ function closeInTime(
     const near = [];
 
     for (let j = 0; j < extendInfoList.length; j++) {
-      // 如果是undefined，跳过
+      // 如果j是undefined，跳过
       if (i === j || emptyAlbum(extendInfoList[j])) {
         continue;
       }
 
-      let jId = extendInfoList[j].album;
+      let jId = idMap.get(extendInfoList[j].album);
 
-      let jAddress = idAddressMap.get(jId);
-
-      if (!jAddress) {
-        console.error("jAddress is undefined.");
+      if (!jId) {
+        console.error("JId is undefined.");
         return rlt;
       }
 
       let addressSim = searchAddress(
-        jAddress,
+        buildAddressTree([getAddressFromInfoList(infoList, i)]),
         getAddressFromInfoList(infoList, i)
       );
 
       if (
         extendInfoList[i].type === extendInfoList[j].type &&
-        Math.abs(extendInfoList[i].dateTaken - extendInfoList[j].dateTaken) <=
-          3600 * 24 &&
+        Math.abs(infoList[i].dateTaken - infoList[j].dateTaken) <= 3600 * 24 &&
         addressSim >= 3
       ) {
         near.push(j);
@@ -616,12 +616,9 @@ function closeInTime(
     let nearestIdx = 0;
     for (let idx of near) {
       if (
-        Math.abs(extendInfoList[idx].dateTaken - extendInfoList[i].dateTaken) <
-        nearestTime
+        Math.abs(infoList[idx].dateTaken - infoList[i].dateTaken) < nearestTime
       ) {
-        nearestTime = Math.abs(
-          extendInfoList[idx].dateTaken - extendInfoList[i].dateTaken
-        );
+        nearestTime = Math.abs(infoList[idx].dateTaken - infoList[i].dateTaken);
         nearestIdx = idx;
       }
     }
@@ -678,8 +675,8 @@ function closeInTime(
 async function main() {
   const fileName = "data/medicalExtendInfoList.json";
   const classifyFileName = "data/medicalClassifyInfoList.json";
-  let extendInfoList: MedicalReportExtendInfo[] = read(fileName);
-  let infoList: ClassifyInfo[] = read(classifyFileName);
+  let extendInfoList = read(fileName);
+  let infoList = read(classifyFileName);
 
   [infoList, extendInfoList] = modifyData(infoList, extendInfoList);
 
@@ -705,19 +702,24 @@ async function main() {
   //   console.log(`i=${i}`, extendInfoList[extendInfoList.length - 5 + i]);
   // }
 
-  await classify(infoList, extendInfoList);
-
   // console.log(df);
   // console.log(extendInfoList[extendInfoList.length - 1]);
 
   const medicalData_521_2127 = read("data/medicalData_521_2127.json");
   for (let item of medicalData_521_2127) {
     const itemExtendInfo = JSON.parse(item.extendJson);
-    // modifiedInfoList.push(item);
-    // modifiedExtendInfoList.push(itemExtendInfo);
-    onUpdate(item, itemExtendInfo);
-    console.log("onUpdate", extendInfoList[extendInfoList.length - 1])
+    infoList.push(item);
+    extendInfoList.push(itemExtendInfo);
+    // onUpdate(item, itemExtendInfo);
+    // console.log("onUpdate:", extendInfoList[extendInfoList.length - 1]);
   }
+  await classify(infoList, extendInfoList);
+
+  for (let i = 0; i < extendInfoList.length; i++) {
+    extendInfoList[i].uri = infoList[i].uri;
+  }
+
+  fs.writeFileSync("output/output.json", JSON.stringify(extendInfoList));
 }
 
 function read(fpath: string) {
