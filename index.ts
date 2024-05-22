@@ -32,38 +32,17 @@ async function classify(
   infoList: Array<ClassifyInfo>,
   extendInfoList: Array<MedicalReportExtendInfo> // 为了在本地运行， ExtendInfo 被改成了 MedicalReportExtendInfo
 ): Promise<boolean> {
-  const [modifiedInfoList, modifiedExtendInfoList] = modifyData(
-    infoList,
-    extendInfoList
-  );
+  globalInfoList = infoList;
+  globalExtendInfoList = extendInfoList;
 
-  globalInfoList = modifiedInfoList;
-  globalExtendInfoList = modifiedExtendInfoList;
-
-  const rows = modifiedExtendInfoList;
-  const groups = groupByNameAndSex(rows);
+  const rows = extendInfoList;
   const nameGroups = groupByName(rows);
-  const onlyOneSexPerson = new Set(
-    Object.keys(nameGroups).filter((k) => countSex(nameGroups[k]) === 1)
-  );
-
-  addNullSexToPerson(rows, groups, onlyOneSexPerson);
-  // for (const [key, person] of Object.entries(groups)) {
-  // console.log(key);
-  // console.log(countType(person));
-  // const [minBirthday, maxBirthday] = calculateBirthdayRange(
-  //   ...getAgeAndBirthday(person)
-  // );
-  // console.log(minBirthday, maxBirthday);
-  // console.log(checkValidBirthdayRange(minBirthday, maxBirthday));
-  // console.log();
-  // }
 
   let count = 0;
   const idMap = new Map<string, string>();
-  for (const [key, person] of Object.entries(groups)) {
+  for (const [key, person] of Object.entries(nameGroups)) {
     for (let row of person) {
-      idMap.set(row.name + "," + row.gender, count.toString());
+      idMap.set(row.name, count.toString());
     }
     count += 1;
   }
@@ -78,7 +57,7 @@ async function classify(
   }
 
   for (let row of rows) {
-    let key = row.name + "," + row.gender;
+    let key = row.name;
     let id = idMap.get(key);
     if (id) {
       // row.album = id;
@@ -89,7 +68,7 @@ async function classify(
     }
   }
 
-  let undefinedMap = undefinedName(modifiedInfoList, rows, idMap);
+  let undefinedMap = undefinedName(infoList, rows, idMap);
 
   for (let [k, v] of undefinedMap) {
     let album = reversedIdMap.get(v);
@@ -99,9 +78,10 @@ async function classify(
     rows[k].album = album;
   }
 
-  // console.log(idMap);
+  console.log(idMap);
 
-  const closeInTimeMap = closeInTime(modifiedInfoList, rows, idMap);
+  const idAddressMap = buildAddressMap(extendInfoList, infoList, idMap);
+  const closeInTimeMap = closeInTime(infoList, rows, idMap, idAddressMap);
 
   for (let [k, v] of closeInTimeMap) {
     let album = reversedIdMap.get(v);
@@ -161,6 +141,10 @@ interface MedicalReportExtendInfo {
 // ///////////////////////////////////////////
 
 import xlsx from "xlsx";
+
+function emptyAlbum(row: any) {
+  return row.album === "病例无名" || !row.album;
+}
 
 function convertDate(timestamp: number): Date {
   const millisecondsFromEpoch = (timestamp - 25569) * 24 * 60 * 60 * 1000;
@@ -243,51 +227,6 @@ function countSex(person: any[]): number {
   return Object.keys(result).length;
 }
 
-function calculateBirthdayRange(ages: any[], timestamps: Date[]): [Date, Date] {
-  let maxBirthday = timestamps[0];
-  let minBirthday = timestamps[0];
-
-  for (let i = 0; i < ages.length; i++) {
-    const age = parseInt(ages[i]);
-    const dt = timestamps[i];
-    const minDate = new Date(
-      dt.getFullYear() - age,
-      dt.getMonth(),
-      dt.getDate()
-    );
-    const maxDate = new Date(
-      dt.getFullYear() - age + 1,
-      dt.getMonth(),
-      dt.getDate()
-    );
-
-    maxBirthday = new Date(Math.max(maxBirthday.getTime(), minDate.getTime()));
-    minBirthday = new Date(Math.min(minBirthday.getTime(), maxDate.getTime()));
-  }
-
-  return [minBirthday, maxBirthday];
-}
-
-function getAgeAndBirthday(rows: any[]): [any[], Date[]] {
-  const ages: any[] = [];
-  const timestamps: Date[] = [];
-  for (const row of rows) {
-    if (!row.age || !row.timestamp) {
-      continue;
-    }
-    ages.push(row.age);
-    timestamps.push(convertDate(row.timestamp));
-  }
-  return [ages, timestamps];
-}
-
-function checkValidBirthdayRange(
-  minBirthday: Date,
-  maxBirthday: Date
-): boolean {
-  return minBirthday <= maxBirthday;
-}
-
 function addNullSexToPerson(
   rows: any[],
   groups: { [key: string]: any[] },
@@ -365,7 +304,7 @@ function groupAddressById(
   for (let i = 0; i < extendInfoList.length; i++) {
     let address = getAddressFromInfoList(infoList, i);
 
-    let id = idMap.get(extendInfoList[i].name + "," + extendInfoList[i].gender);
+    let id = idMap.get(extendInfoList[i].name);
     if (!id) {
       continue;
     }
@@ -389,31 +328,6 @@ function getAddressFromInfoList(infoList: any[], i: number) {
   return address;
 }
 
-// function groupDiagnpsisById(
-//   extendInfoList: any[],
-//   infoList: any[],
-//   idMap: Map<string, string>
-// ): Map<string, string[]> {
-//   let rlt = new Map<string, string[]>();
-
-//   for (let i = 0; i < extendInfoList.length; i++) {
-//     let diagnpsis = extendInfoList[i].diagnpsis;
-
-//     let id = idMap.get(extendInfoList[i].name + "," + extendInfoList[i].gender);
-//     if (!id) {
-//       continue;
-//     }
-
-//     if (!rlt.has(id)) {
-//       rlt.set(id, []);
-//     }
-
-//     rlt.get(id)!.push(diagnpsis);
-//   }
-
-//   return rlt;
-// }
-
 function buildAddressMap(
   extendInfoList: any[],
   infoList: any[],
@@ -428,46 +342,6 @@ function buildAddressMap(
 
   return rlt;
 }
-
-// function onlyOneAddress(node: AddressNode) {
-//   if (Object.keys(node).length !== 1 || Object.values(node)[0] === null) {
-//     return false;
-//   }
-
-//   return onlyOneAddress(Object.values(node)[0]!);
-// }
-
-// function getOnlyOneAddress(
-//   map: Map<string, AddressNode>
-// ): Map<string, AddressNode> {
-//   let rlt = new Map<string, AddressNode>();
-//   for (let [id, addresses] of map) {
-//     if (onlyOneAddress(addresses)) {
-//       rlt.set(id, addresses);
-//     }
-//   }
-
-//   return rlt;
-// }
-
-// function getMaxAddressSim(
-//   row: any,
-//   addressMap: Map<string, AddressNode[]>
-// ): [string, number] {
-//   let maxSim = 0;
-//   let maxAddressId = "";
-//   for (let [id, addresses] of addressMap) {
-//     for (let address of addresses) {
-//       let sim = searchAddress(address, row.adminArea + "/" + row.locality);
-//       if (sim > maxSim) {
-//         maxSim = sim;
-//         maxAddressId = id;
-//       }
-//     }
-//   }
-
-//   return [maxAddressId, maxSim];
-// }
 
 /**
  * timestamp的时间
@@ -493,9 +367,7 @@ function buildTimeMap(
     }
 
     const time = convertDate(extendInfoList[i].timestamp);
-    const id = idMap.get(
-      extendInfoList[i].name + "," + extendInfoList[i].gender
-    );
+    const id = idMap.get(extendInfoList[i].name);
 
     if (!id) {
       continue;
@@ -535,9 +407,7 @@ function buildPhotoTakenTimeMap(
     }
 
     const time = new Date(infoList[i].dateTaken * 1000);
-    const id = idMap.get(
-      extendInfoList[i].name + "," + extendInfoList[i].gender
-    );
+    const id = idMap.get(extendInfoList[i].name);
 
     if (!id) {
       continue;
@@ -552,26 +422,6 @@ function buildPhotoTakenTimeMap(
 
   return timeMap;
 }
-
-// function getMaxTimeSimilarity(
-//   row: any,
-//   timeMap: Map<string, Date[]>
-// ): [string, number] {
-//   let rlt = Infinity;
-//   let rltId = "";
-
-//   for (let [id, times] of timeMap) {
-//     for (let time of times) {
-//       let sim = Math.abs(time.getTime() - row.timestamp.getTime());
-//       if (sim < rlt) {
-//         rlt = sim;
-//         rltId = id;
-//       }
-//     }
-//   }
-
-//   return [rltId, rlt];
-// }
 
 function jaccardSimilarity(str1: string, str2: string): number {
   const set1 = new Set(str1);
@@ -607,7 +457,7 @@ function buildDiagnpsisMap(
       continue;
     }
 
-    let id = idMap.get(extendInfoList[i].name + "," + extendInfoList[i].gender);
+    let id = idMap.get(extendInfoList[i].name);
 
     if (!id) {
       continue;
@@ -624,11 +474,6 @@ function buildDiagnpsisMap(
 }
 
 const oneMonthInMilliseconds = 30 * 24 * 60 * 60 * 1000; // 一个月的毫秒数
-// function isWithinOneMonth(date1: Date, date2: Date): boolean {
-//   const diff = Math.abs(date1.getTime() - date2.getTime()); // 两个日期之间的毫秒差
-
-//   return diff <= oneMonthInMilliseconds;
-// }
 
 function addressThreshold(sim: number, hasTimeStamp: boolean): boolean {
   return hasTimeStamp ? sim >= 2 : sim >= 3;
@@ -665,22 +510,14 @@ function undefinedName(
       ? convertDate(extendInfoListRow.timestamp)
       : new Date(infoListRow.dateTaken * 1000);
 
-    if (idMap.has(extendInfoListRow.name + "," + extendInfoListRow.gender)) {
+    if (idMap.has(extendInfoListRow.name)) {
       // 跳过有id的
       continue;
     }
 
     // let idMapSize = idMap.size;
-
+    let possibleId = [];
     for (let [k, id] of idMap) {
-      let name = k.split(",")[0];
-      let gender = k.split(",")[1];
-
-      // 如果有性别，但是性别不匹配，跳过
-      if (extendInfoListRow.gender && extendInfoListRow.gender != gender) {
-        continue;
-      }
-
       let addressTree = idAddressMap.get(id)!;
       let maxAddressSim = searchAddress(
         addressTree,
@@ -728,88 +565,159 @@ function undefinedName(
 function closeInTime(
   infoList: any[],
   extendInfoList: any[],
-  idMap: Map<string, string>
+  idMap: Map<string, string>,
+  idAddressMap: Map<string, AddressNode>
 ): Map<number, string> {
   let rlt = new Map<number, string>();
-  ``;
-  const unitedList: [any, any][] = [];
+
   for (let i = 0; i < extendInfoList.length; i++) {
-    unitedList.push([infoList[i], extendInfoList[i]]);
-  }
-
-  // sort by takenTime
-  unitedList.sort((a, b) => a[1].dateTaken - b[1].dateTaken);
-
-  for (let i = 0; i < unitedList.length - 1; i++) {
-    let current = unitedList[i];
-    let next = unitedList[i + 1];
-    let nextId = idMap.get(next[1].name + "," + next[1].gender);
-    let currentId = idMap.get(current[1].name + "," + current[1].gender);
-
-    // if (
-    //   Math.abs(current[0].dateTaken - next[0].dateTaken) <= 3600 * 24 &&
-    //   (!current[1].type || !next[1].type || current[1].type === next[1].type) &&
-    //   ((current[1].name && !next[1].name) || (!current[1].name && next[1].name))
-    // ) {
-    //   console.log("current", current);
-    //   console.log("next", next);
-    // }
-
-    // 只处理当前有id，但是下一个没有id的
-
-    if (
-      currentId &&
-      !nextId &&
-      (Math.abs(current[0].dateTaken - next[0].dateTaken) <= 3600 * 24 ||
-        Math.abs(current[1].dateAdded - next[1].dateTaken) <= 3600 * 24) &&
-      (!current[1].type || !next[1].type || current[1].type === next[1].type)
-      //   &&
-      // (current.addressDescription === undefined ||
-      //   next.addressDescription === undefined ||
-      //   current.addressDescription === next.addressDescription)
-    ) {
-      rlt.set(i + 1, currentId);
-    } else if (
-      !currentId &&
-      nextId &&
-      (Math.abs(current[0].dateTaken - next[0].dateTaken) <= 3600 * 24 ||
-        Math.abs(current[1].dateAdded - next[1].dateTaken) <= 3600 * 24) &&
-      (!current[1].type || !next[1].type || current[1].type === next[1].type)
-    ) {
-      //     &&
-      //   (current.addressDescription === undefined ||
-      //     next.addressDescription === undefined ||
-      //     current.addressDescription === next.addressDescription)
-      // )
-      rlt.set(i, nextId);
+    // skip
+    if (!emptyAlbum(extendInfoList[i])) {
+      continue;
     }
+
+    const near = [];
+
+    for (let j = 0; j < extendInfoList.length; j++) {
+      // 如果是undefined，跳过
+      if (i === j || emptyAlbum(extendInfoList[j])) {
+        continue;
+      }
+
+      let jId = extendInfoList[j].album;
+
+      let jAddress = idAddressMap.get(jId);
+
+      if (!jAddress) {
+        console.error("jAddress is undefined.");
+        return rlt;
+      }
+
+      let addressSim = searchAddress(
+        jAddress,
+        getAddressFromInfoList(infoList, i)
+      );
+
+      if (
+        extendInfoList[i].type === extendInfoList[j].type &&
+        Math.abs(extendInfoList[i].dateTaken - extendInfoList[j].dateTaken) <=
+          3600 * 24 &&
+        addressSim >= 3
+      ) {
+        near.push(j);
+      }
+    }
+
+    if (near.length === 0) {
+      continue;
+    }
+
+    let nearestTime = Infinity;
+    let nearestIdx = 0;
+    for (let idx of near) {
+      if (
+        Math.abs(extendInfoList[idx].dateTaken - extendInfoList[i].dateTaken) <
+        nearestTime
+      ) {
+        nearestTime = Math.abs(
+          extendInfoList[idx].dateTaken - extendInfoList[i].dateTaken
+        );
+        nearestIdx = idx;
+      }
+    }
+
+    rlt.set(i, extendInfoList[nearestIdx].album);
   }
+
   return rlt;
 }
+
+// function closeInTime(
+//   infoList: any[],
+//   extendInfoList: any[],
+//   idMap: Map<string, string>
+// ): Map<number, string> {
+//   let rlt = new Map<number, string>();
+
+//   const unitedList: [any, any][] = [];
+//   for (let i = 0; i < extendInfoList.length; i++) {
+//     unitedList.push([infoList[i], extendInfoList[i]]);
+//   }
+
+//   // sort by takenTime
+//   unitedList.sort((a, b) => a[1].dateTaken - b[1].dateTaken);
+
+//   for (let i = 0; i < unitedList.length - 1; i++) {
+//     let current = unitedList[i];
+//     let next = unitedList[i + 1];
+
+//     let nextId = idMap.get(next[1].name);
+//     let currentId = idMap.get(current[1].name);
+
+//     if (
+//       currentId &&
+//       !nextId &&
+//       (Math.abs(current[0].dateTaken - next[0].dateTaken) <= 3600 * 24 ||
+//         Math.abs(current[1].dateAdded - next[1].dateTaken) <= 3600 * 24) &&
+//       current[1].type === next[1].type
+//     ) {
+//       rlt.set(i + 1, currentId);
+//     } else if (
+//       !currentId &&
+//       nextId &&
+//       (Math.abs(current[0].dateTaken - next[0].dateTaken) <= 3600 * 24 ||
+//         Math.abs(current[1].dateAdded - next[1].dateTaken) <= 3600 * 24) &&
+//       current[1].type === next[1].type
+//     ) {
+//       rlt.set(i, nextId);
+//     }
+//   }
+//   return rlt;
+// }
 
 async function main() {
   const fileName = "data/medicalExtendInfoList.json";
   const classifyFileName = "data/medicalClassifyInfoList.json";
-  const df = read(fileName);
-  const infoList = read(classifyFileName);
+  let extendInfoList: MedicalReportExtendInfo[] = read(fileName);
+  let infoList: ClassifyInfo[] = read(classifyFileName);
+
+  [infoList, extendInfoList] = modifyData(infoList, extendInfoList);
 
   if (!infoList) {
     console.error("没有data/classifyInfo.xlsx");
     return;
   }
 
-  if (!df) {
+  if (!extendInfoList) {
     return;
   }
 
-  // for (let i = 0; i < df.length; i++) {
-  //   onUpdate(infoList[i], df[i]);
+  // // 跳过李丽
+  // await classify(infoList.slice(0, -5), extendInfoList.slice(0, -5));
+
+  // // update 李丽
+  // for (let i = 0; i < 5; i++) {
+  //   onUpdate(
+  //     infoList[infoList.length - 5 + i],
+  //     extendInfoList[extendInfoList.length - 5 + i]
+  //   );
+
+  //   console.log(`i=${i}`, extendInfoList[extendInfoList.length - 5 + i]);
   // }
 
-  await classify(infoList, df);
+  await classify(infoList, extendInfoList);
 
   // console.log(df);
-  // console.log(df[14]);
+  // console.log(extendInfoList[extendInfoList.length - 1]);
+
+  const medicalData_521_2127 = read("data/medicalData_521_2127.json");
+  for (let item of medicalData_521_2127) {
+    const itemExtendInfo = JSON.parse(item.extendJson);
+    // modifiedInfoList.push(item);
+    // modifiedExtendInfoList.push(itemExtendInfo);
+    onUpdate(item, itemExtendInfo);
+    console.log("onUpdate", extendInfoList[extendInfoList.length - 1])
+  }
 }
 
 function read(fpath: string) {
@@ -866,31 +774,32 @@ function modifyData(infoList: any[], extendInfoList: any[]): [any[], any[]] {
       continue;
     }
 
-    // for (let skipString of skip) {
-    //   if (infoList[i].uri.includes(skipString)) {
-    //     continue;
-    //   }
-    // }
-
     if (extendInfoList[i].name === "孙英") {
       continue;
     }
 
     if (extendInfoList[i].name === "刘圆圆") {
-      extendInfoList[i].gender = "女";
+      extendInfoList[i].gender = "1";
     }
 
     modifiedInfoList.push(infoList[i]);
     modifiedExtendInfoList.push(extendInfoList[i]);
   }
 
-  // 手动增加数据
-  const lastOcr = read("data/2024_0518_165623_latestPhotoOcr.json");
-  for (let item of lastOcr) {
-    const itemExtendInfo = JSON.parse(item.extendJson);
-    modifiedInfoList.push(item);
-    modifiedExtendInfoList.push(itemExtendInfo);
-  }
+  // // 手动增加数据
+  // const lastOcr = read("data/2024_0518_165623_latestPhotoOcr.json");
+  // for (let item of lastOcr) {
+  //   const itemExtendInfo = JSON.parse(item.extendJson);
+  //   modifiedInfoList.push(item);
+  //   modifiedExtendInfoList.push(itemExtendInfo);
+  // }
+
+  // const medicalData_521_2127 = read("data/medicalData_521_2127.json");
+  // for (let item of medicalData_521_2127) {
+  //   const itemExtendInfo = JSON.parse(item.extendJson);
+  //   modifiedInfoList.push(item);
+  //   modifiedExtendInfoList.push(itemExtendInfo);
+  // }
 
   return [modifiedInfoList, modifiedExtendInfoList];
 }
